@@ -1,0 +1,68 @@
+{"frames": [
+
+{
+	"filename": "writer-bg",
+	"frame": {"x":0,"y":0,"w":5120,"h":3200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":5120,"h":3200},
+	"sourceSize": {"w":5120,"h":3200}
+},
+{
+	"filename": "writer-bgitem",
+	"frame": {"x":1775,"y":4633,"w":1093,"h":300},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":103,"w":1093,"h":300},
+	"sourceSize": {"w":1250,"h":510}
+},
+{
+	"filename": "writer-paper",
+	"frame": {"x":0,"y":3202,"w":1773,"h":1912},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":19,"w":1773,"h":1912},
+	"sourceSize": {"w":1800,"h":1950}
+},
+{
+	"filename": "writer-poloska",
+	"frame": {"x":1775,"y":4980,"w":1150,"h":11},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1150,"h":11},
+	"sourceSize": {"w":1150,"h":11}
+},
+{
+	"filename": "writer-type_main",
+	"frame": {"x":1775,"y":3202,"w":1478,"h":1429},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":196,"y":512,"w":1478,"h":1429},
+	"sourceSize": {"w":1905,"h":1975}
+},
+{
+	"filename": "writer-type_paper",
+	"frame": {"x":3255,"y":3202,"w":1303,"h":1416},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":29,"w":1303,"h":1416},
+	"sourceSize": {"w":1905,"h":1975}
+},
+{
+	"filename": "writer-type_part_0",
+	"frame": {"x":1775,"y":4935,"w":1441,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":209,"y":630,"w":1441,"h":43},
+	"sourceSize": {"w":1905,"h":1975}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas_2.5_0.png",
+	"format": "RGBA8888",
+	"size": {"w":5120,"h":5114},
+	"scale": "0.625",
+	"smartupdate": "$TexturePacker:SmartUpdate:ac6e1c3c7fb18472f413d80e4762ff73:86679758edcb0f33236734c5ee2d3741:eddc82f9f74ced3469ba9be1e67c5123$"
+}
+}

@@ -1,0 +1,84 @@
+{"frames": [
+
+{
+	"filename": "wordmaster-bgitem",
+	"frame": {"x":348,"y":885,"w":160,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":13,"w":160,"h":83},
+	"sourceSize": {"w":190,"h":102}
+},
+{
+	"filename": "wordmaster-hand_0",
+	"frame": {"x":348,"y":384,"w":141,"h":396},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":5,"w":141,"h":396},
+	"sourceSize": {"w":150,"h":405}
+},
+{
+	"filename": "wordmaster-hand_1",
+	"frame": {"x":491,"y":384,"w":141,"h":396},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":5,"w":141,"h":396},
+	"sourceSize": {"w":150,"h":405}
+},
+{
+	"filename": "wordmaster-paper",
+	"frame": {"x":0,"y":510,"w":346,"h":384},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":3,"w":346,"h":384},
+	"sourceSize": {"w":360,"h":390}
+},
+{
+	"filename": "wordmaster-paper_big",
+	"frame": {"x":0,"y":0,"w":346,"h":508},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":1,"w":346,"h":508},
+	"sourceSize": {"w":360,"h":513}
+},
+{
+	"filename": "wordmaster-poloska",
+	"frame": {"x":0,"y":896,"w":230,"h":2},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":230,"h":2},
+	"sourceSize": {"w":230,"h":2}
+},
+{
+	"filename": "wordmaster-type_chert",
+	"frame": {"x":232,"y":896,"w":3,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":31},
+	"sourceSize": {"w":3,"h":31}
+},
+{
+	"filename": "wordmaster-type_keyboard",
+	"frame": {"x":348,"y":782,"w":225,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":101},
+	"sourceSize": {"w":225,"h":101}
+},
+{
+	"filename": "wordmaster-type_main",
+	"frame": {"x":348,"y":0,"w":284,"h":382},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":0,"w":284,"h":382},
+	"sourceSize": {"w":381,"h":382}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas_0.5_3.png",
+	"format": "RGBA8888",
+	"size": {"w":632,"h":968},
+	"scale": "0.125",
+	"smartupdate": "$TexturePacker:SmartUpdate:2c2379de0d74a8e2ca69eea3bafb21b9:46aca08964f09beacbaca59c9945ad31:eddc82f9f74ced3469ba9be1e67c5123$"
+}
+}

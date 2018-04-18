@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "wordsort-bg_3",
+	"frame": {"x":0,"y":0,"w":3072,"h":1920},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":3072,"h":1920},
+	"sourceSize": {"w":3072,"h":1920}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas_1.5_3.png",
+	"format": "RGBA8888",
+	"size": {"w":3072,"h":1920},
+	"scale": "0.375",
+	"smartupdate": "$TexturePacker:SmartUpdate:82f896e74478c70ed44953461e86b7bf:85072ced657d836ff703fbd633511aff:3e58d7bfbfd78c7f1b2a0f549f359d7e$"
+}
+}

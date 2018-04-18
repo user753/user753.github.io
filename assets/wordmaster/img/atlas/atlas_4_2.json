@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "wordmaster-bg_left",
+	"frame": {"x":0,"y":0,"w":8192,"h":5120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8192,"h":5120},
+	"sourceSize": {"w":8192,"h":5120}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas_4_2.png",
+	"format": "RGBA8888",
+	"size": {"w":8192,"h":5120},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2c2379de0d74a8e2ca69eea3bafb21b9:46aca08964f09beacbaca59c9945ad31:eddc82f9f74ced3469ba9be1e67c5123$"
+}
+}

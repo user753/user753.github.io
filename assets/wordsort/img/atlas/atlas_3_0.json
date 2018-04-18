@@ -1,0 +1,172 @@
+{"frames": [
+
+{
+	"filename": "wordsort-arrow_left",
+	"frame": {"x":4952,"y":4968,"w":615,"h":491},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":615,"h":491},
+	"sourceSize": {"w":618,"h":492}
+},
+{
+	"filename": "wordsort-arrow_right",
+	"frame": {"x":4693,"y":4475,"w":616,"h":491},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":616,"h":491},
+	"sourceSize": {"w":618,"h":492}
+},
+{
+	"filename": "wordsort-bg_0",
+	"frame": {"x":0,"y":0,"w":6144,"h":3840},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":6144,"h":3840},
+	"sourceSize": {"w":6144,"h":3840}
+},
+{
+	"filename": "wordsort-folder_0",
+	"frame": {"x":4693,"y":3842,"w":1146,"h":631},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":210,"w":1146,"h":631},
+	"sourceSize": {"w":1266,"h":900}
+},
+{
+	"filename": "wordsort-folder_1",
+	"frame": {"x":1039,"y":5397,"w":848,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":214,"y":229,"w":848,"h":57},
+	"sourceSize": {"w":1266,"h":900}
+},
+{
+	"filename": "wordsort-folder_2",
+	"frame": {"x":1039,"y":5456,"w":721,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":277,"y":208,"w":721,"h":61},
+	"sourceSize": {"w":1266,"h":900}
+},
+{
+	"filename": "wordsort-folder_3",
+	"frame": {"x":1039,"y":5519,"w":640,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":318,"y":192,"w":640,"h":58},
+	"sourceSize": {"w":1266,"h":900}
+},
+{
+	"filename": "wordsort-folder_4",
+	"frame": {"x":0,"y":5397,"w":1037,"h":257},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":59,"w":1037,"h":257},
+	"sourceSize": {"w":1266,"h":900}
+},
+{
+	"filename": "wordsort-icon_0_left",
+	"frame": {"x":5841,"y":3842,"w":293,"h":369},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":375,"y":77,"w":293,"h":369},
+	"sourceSize": {"w":1050,"h":528}
+},
+{
+	"filename": "wordsort-icon_0_right",
+	"frame": {"x":3003,"y":5257,"w":622,"h":344},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":216,"y":94,"w":622,"h":344},
+	"sourceSize": {"w":1050,"h":528}
+},
+{
+	"filename": "wordsort-icon_1_left",
+	"frame": {"x":5751,"y":4475,"w":377,"h":416},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":337,"y":56,"w":377,"h":416},
+	"sourceSize": {"w":1050,"h":528}
+},
+{
+	"filename": "wordsort-icon_1_right",
+	"frame": {"x":4539,"y":5257,"w":411,"h":410},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":319,"y":59,"w":411,"h":410},
+	"sourceSize": {"w":1050,"h":528}
+},
+{
+	"filename": "wordsort-icon_2_left",
+	"frame": {"x":2351,"y":5257,"w":650,"h":399},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":200,"y":68,"w":650,"h":399},
+	"sourceSize": {"w":1050,"h":528}
+},
+{
+	"filename": "wordsort-icon_2_right",
+	"frame": {"x":5569,"y":4893,"w":400,"h":383},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":324,"y":74,"w":400,"h":383},
+	"sourceSize": {"w":1047,"h":525}
+},
+{
+	"filename": "wordsort-icon_3_left",
+	"frame": {"x":5569,"y":5278,"w":503,"h":300},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":110,"w":503,"h":300},
+	"sourceSize": {"w":1050,"h":528}
+},
+{
+	"filename": "wordsort-icon_3_right",
+	"frame": {"x":5311,"y":4475,"w":438,"h":362},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":284,"y":86,"w":438,"h":362},
+	"sourceSize": {"w":1050,"h":528}
+},
+{
+	"filename": "wordsort-icon_4_left",
+	"frame": {"x":3627,"y":5257,"w":454,"h":410},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":296,"y":62,"w":454,"h":410},
+	"sourceSize": {"w":1050,"h":528}
+},
+{
+	"filename": "wordsort-icon_4_right",
+	"frame": {"x":4083,"y":5257,"w":454,"h":410},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":301,"y":59,"w":454,"h":410},
+	"sourceSize": {"w":1050,"h":528}
+},
+{
+	"filename": "wordsort-paper",
+	"frame": {"x":2351,"y":3842,"w":2340,"h":1413},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":58,"w":2340,"h":1413},
+	"sourceSize": {"w":2454,"h":1530}
+},
+{
+	"filename": "wordsort-paper_all",
+	"frame": {"x":0,"y":3842,"w":2349,"h":1553},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":51,"w":2349,"h":1553},
+	"sourceSize": {"w":2454,"h":1656}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas_3_0.png",
+	"format": "RGBA8888",
+	"size": {"w":6144,"h":5667},
+	"scale": "0.75",
+	"smartupdate": "$TexturePacker:SmartUpdate:82f896e74478c70ed44953461e86b7bf:85072ced657d836ff703fbd633511aff:3e58d7bfbfd78c7f1b2a0f549f359d7e$"
+}
+}

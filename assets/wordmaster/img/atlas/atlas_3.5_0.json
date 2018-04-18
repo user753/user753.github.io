@@ -1,0 +1,68 @@
+{"frames": [
+
+{
+	"filename": "wordmaster-bg",
+	"frame": {"x":0,"y":0,"w":7168,"h":4480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7168,"h":4480},
+	"sourceSize": {"w":7168,"h":4480}
+},
+{
+	"filename": "wordmaster-bgitem",
+	"frame": {"x":4392,"y":5188,"w":1102,"h":559},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":101,"w":1102,"h":559},
+	"sourceSize": {"w":1329,"h":714}
+},
+{
+	"filename": "wordmaster-paper",
+	"frame": {"x":0,"y":4482,"w":2412,"h":2672},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":28,"w":2412,"h":2672},
+	"sourceSize": {"w":2520,"h":2730}
+},
+{
+	"filename": "wordmaster-poloska",
+	"frame": {"x":4392,"y":5749,"w":1610,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1610,"h":15},
+	"sourceSize": {"w":1610,"h":15}
+},
+{
+	"filename": "wordmaster-type_chert",
+	"frame": {"x":5969,"y":4482,"w":21,"h":214},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":214},
+	"sourceSize": {"w":21,"h":214}
+},
+{
+	"filename": "wordmaster-type_keyboard",
+	"frame": {"x":4392,"y":4482,"w":1575,"h":704},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1575,"h":704},
+	"sourceSize": {"w":1575,"h":704}
+},
+{
+	"filename": "wordmaster-type_main",
+	"frame": {"x":2414,"y":4482,"w":1976,"h":2667},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":345,"y":4,"w":1976,"h":2667},
+	"sourceSize": {"w":2667,"h":2674}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas_3.5_0.png",
+	"format": "RGBA8888",
+	"size": {"w":7168,"h":7154},
+	"scale": "0.875",
+	"smartupdate": "$TexturePacker:SmartUpdate:2c2379de0d74a8e2ca69eea3bafb21b9:46aca08964f09beacbaca59c9945ad31:eddc82f9f74ced3469ba9be1e67c5123$"
+}
+}

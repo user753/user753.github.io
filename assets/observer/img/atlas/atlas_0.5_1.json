@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "observer-bg_1",
+	"frame": {"x":0,"y":0,"w":1024,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":640},
+	"sourceSize": {"w":1024,"h":640}
+},
+{
+	"filename": "observer-car_fon_2",
+	"frame": {"x":0,"y":642,"w":382,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":382,"h":314},
+	"sourceSize": {"w":382,"h":314}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas_0.5_1.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":956},
+	"scale": "0.125",
+	"smartupdate": "$TexturePacker:SmartUpdate:bac5a4665514a24771e99bdf98eb4d83:ca70c2d113d3c378733a1cf9cafc8f5e:3e58d7bfbfd78c7f1b2a0f549f359d7e$"
+}
+}

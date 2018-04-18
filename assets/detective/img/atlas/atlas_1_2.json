@@ -1,0 +1,124 @@
+{"frames": [
+
+{
+	"filename": "detective-bg_intro",
+	"frame": {"x":0,"y":0,"w":2048,"h":1280},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2048,"h":1280},
+	"sourceSize": {"w":2048,"h":1280}
+},
+{
+	"filename": "detective-item_4",
+	"frame": {"x":1615,"y":1282,"w":367,"h":383},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":44,"w":367,"h":383},
+	"sourceSize": {"w":480,"h":480}
+},
+{
+	"filename": "detective-item_17",
+	"frame": {"x":1112,"y":1282,"w":294,"h":386},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":57,"w":294,"h":386},
+	"sourceSize": {"w":480,"h":480}
+},
+{
+	"filename": "detective-item_31",
+	"frame": {"x":1408,"y":1282,"w":205,"h":385},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":47,"w":205,"h":385},
+	"sourceSize": {"w":480,"h":480}
+},
+{
+	"filename": "detective-item_42",
+	"frame": {"x":1092,"y":1670,"w":317,"h":374},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":50,"w":317,"h":374},
+	"sourceSize": {"w":480,"h":480}
+},
+{
+	"filename": "detective-item_43",
+	"frame": {"x":759,"y":1670,"w":331,"h":374},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":53,"w":331,"h":374},
+	"sourceSize": {"w":480,"h":480}
+},
+{
+	"filename": "detective-item_52",
+	"frame": {"x":1411,"y":1669,"w":391,"h":379},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":48,"w":391,"h":379},
+	"sourceSize": {"w":480,"h":480}
+},
+{
+	"filename": "detective-item_53",
+	"frame": {"x":383,"y":1670,"w":374,"h":375},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":47,"w":374,"h":375},
+	"sourceSize": {"w":480,"h":480}
+},
+{
+	"filename": "detective-item_55",
+	"frame": {"x":340,"y":1282,"w":385,"h":386},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":44,"w":385,"h":386},
+	"sourceSize": {"w":480,"h":480}
+},
+{
+	"filename": "detective-item_58",
+	"frame": {"x":0,"y":1282,"w":338,"h":387},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":42,"w":338,"h":387},
+	"sourceSize": {"w":480,"h":480}
+},
+{
+	"filename": "detective-item_66",
+	"frame": {"x":727,"y":1282,"w":383,"h":386},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":50,"w":383,"h":386},
+	"sourceSize": {"w":480,"h":480}
+},
+{
+	"filename": "detective-item_67",
+	"frame": {"x":0,"y":1671,"w":381,"h":375},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":48,"w":381,"h":375},
+	"sourceSize": {"w":480,"h":480}
+},
+{
+	"filename": "detective-item_small_32",
+	"frame": {"x":1804,"y":1667,"w":210,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":31,"w":210,"h":178},
+	"sourceSize": {"w":240,"h":240}
+},
+{
+	"filename": "detective-item_small_62",
+	"frame": {"x":1804,"y":1847,"w":145,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":21,"w":145,"h":201},
+	"sourceSize": {"w":240,"h":240}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas_1_2.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "0.25",
+	"smartupdate": "$TexturePacker:SmartUpdate:cc39f4f5dcb59ccafbfb143dd56779b7:6c9f8c15dab21ec798c5d19b42462c8a:0e0fb54a75e4d5e90c8daddc00752d92$"
+}
+}

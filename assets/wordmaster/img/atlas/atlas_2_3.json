@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "wordmaster-hand_0",
+	"frame": {"x":566,"y":2027,"w":563,"h":1581},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":21,"w":563,"h":1581},
+	"sourceSize": {"w":600,"h":1620}
+},
+{
+	"filename": "wordmaster-hand_1",
+	"frame": {"x":0,"y":2027,"w":564,"h":1582},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":21,"w":564,"h":1582},
+	"sourceSize": {"w":600,"h":1620}
+},
+{
+	"filename": "wordmaster-paper_big",
+	"frame": {"x":0,"y":0,"w":1380,"h":2025},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":7,"w":1380,"h":2025},
+	"sourceSize": {"w":1440,"h":2050}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas_2_3.png",
+	"format": "RGBA8888",
+	"size": {"w":1380,"h":3609},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:2c2379de0d74a8e2ca69eea3bafb21b9:46aca08964f09beacbaca59c9945ad31:eddc82f9f74ced3469ba9be1e67c5123$"
+}
+}

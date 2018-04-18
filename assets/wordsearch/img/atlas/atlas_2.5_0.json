@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "wordsearch-arrow",
+	"frame": {"x":1050,"y":3202,"w":842,"h":273},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":424,"w":842,"h":273},
+	"sourceSize": {"w":1113,"h":1113}
+},
+{
+	"filename": "wordsearch-bg",
+	"frame": {"x":0,"y":0,"w":5120,"h":3200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":5120,"h":3200},
+	"sourceSize": {"w":5120,"h":3200}
+},
+{
+	"filename": "wordsearch-circle",
+	"frame": {"x":0,"y":3202,"w":1048,"h":1048},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":32,"w":1048,"h":1048},
+	"sourceSize": {"w":1113,"h":1113}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas_2.5_0.png",
+	"format": "RGBA8888",
+	"size": {"w":5120,"h":4250},
+	"scale": "0.625",
+	"smartupdate": "$TexturePacker:SmartUpdate:1bb1b016f49470c4e97130e788371aab:682a0c0e5800ab44c466c349d17203de:092e562c7ebb35d79d8a0623d0dfd015$"
+}
+}

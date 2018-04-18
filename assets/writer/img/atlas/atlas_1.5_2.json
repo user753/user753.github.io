@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "writer-bg_left",
+	"frame": {"x":0,"y":0,"w":3072,"h":1920},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":3072,"h":1920},
+	"sourceSize": {"w":3072,"h":1920}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas_1.5_2.png",
+	"format": "RGBA8888",
+	"size": {"w":3072,"h":1920},
+	"scale": "0.375",
+	"smartupdate": "$TexturePacker:SmartUpdate:ac6e1c3c7fb18472f413d80e4762ff73:86679758edcb0f33236734c5ee2d3741:eddc82f9f74ced3469ba9be1e67c5123$"
+}
+}

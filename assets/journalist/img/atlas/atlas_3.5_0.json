@@ -1,0 +1,68 @@
+{"frames": [
+
+{
+	"filename": "journalist-bg",
+	"frame": {"x":0,"y":0,"w":7168,"h":4480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7168,"h":4480},
+	"sourceSize": {"w":7168,"h":4480}
+},
+{
+	"filename": "journalist-bgitem",
+	"frame": {"x":5809,"y":5878,"w":1001,"h":794},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":68,"w":1001,"h":794},
+	"sourceSize": {"w":1205,"h":932}
+},
+{
+	"filename": "journalist-paper",
+	"frame": {"x":0,"y":4482,"w":2373,"h":2619},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":56,"w":2373,"h":2619},
+	"sourceSize": {"w":2520,"h":2730}
+},
+{
+	"filename": "journalist-poloska",
+	"frame": {"x":4197,"y":5878,"w":1610,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1610,"h":15},
+	"sourceSize": {"w":1610,"h":15}
+},
+{
+	"filename": "journalist-type_main",
+	"frame": {"x":4373,"y":4482,"w":1995,"h":1394},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":338,"y":1288,"w":1995,"h":1394},
+	"sourceSize": {"w":2667,"h":2765}
+},
+{
+	"filename": "journalist-type_part_0",
+	"frame": {"x":2375,"y":5878,"w":1820,"h":1218},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":128,"w":1820,"h":1218},
+	"sourceSize": {"w":2072,"h":1474}
+},
+{
+	"filename": "journalist-type_part_1",
+	"frame": {"x":2375,"y":4482,"w":1996,"h":1394},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":39,"w":1996,"h":1394},
+	"sourceSize": {"w":2072,"h":1474}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas_3.5_0.png",
+	"format": "RGBA8888",
+	"size": {"w":7168,"h":7101},
+	"scale": "0.875",
+	"smartupdate": "$TexturePacker:SmartUpdate:00098d82f93dc40a73c031babc5cbca7:0e30840be375e9ad0c199c69065c9cd7:eddc82f9f74ced3469ba9be1e67c5123$"
+}
+}

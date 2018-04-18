@@ -1,0 +1,52 @@
+{"frames": [
+
+{
+	"filename": "sea-join_0_2_2",
+	"frame": {"x":0,"y":562,"w":105,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":0,"w":105,"h":146},
+	"sourceSize": {"w":216,"h":216}
+},
+{
+	"filename": "sea-land_5_1_1",
+	"frame": {"x":0,"y":147,"w":216,"h":136},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":216,"h":136},
+	"sourceSize": {"w":216,"h":216}
+},
+{
+	"filename": "sea-land_9_2_2",
+	"frame": {"x":0,"y":0,"w":216,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":216,"h":145},
+	"sourceSize": {"w":216,"h":216}
+},
+{
+	"filename": "sea-land_15_1_1",
+	"frame": {"x":0,"y":285,"w":216,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":216,"h":87},
+	"sourceSize": {"w":216,"h":216}
+},
+{
+	"filename": "sea-ship_0",
+	"frame": {"x":0,"y":374,"w":210,"h":186},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":14,"w":210,"h":186},
+	"sourceSize": {"w":216,"h":216}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas_1_1.png",
+	"format": "RGBA8888",
+	"size": {"w":216,"h":708},
+	"scale": "0.25",
+	"smartupdate": "$TexturePacker:SmartUpdate:e5cddc2390fd19799f4745b7fca50ef4:01dcda5691697ec910dbe482534b52c2:9ca5c2adbc66d029d2f02c0119016215$"
+}
+}

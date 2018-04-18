@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "compositor-fon",
+	"frame": {"x":0,"y":0,"w":709,"h":507},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":709,"h":507},
+	"sourceSize": {"w":709,"h":507}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas_0.5_1.png",
+	"format": "RGBA8888",
+	"size": {"w":709,"h":507},
+	"scale": "0.125",
+	"smartupdate": "$TexturePacker:SmartUpdate:a7c218cbb7c614813f26c038ea82168c:6c49c5d4eb2b6b98e8cab382c2983b2a:fc57250526a9f43e80b85f7de2eded1c$"
+}
+}

@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "journalist-hand_0",
+	"frame": {"x":847,"y":3001,"w":844,"h":2369},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":33,"w":844,"h":2369},
+	"sourceSize": {"w":900,"h":2430}
+},
+{
+	"filename": "journalist-hand_1",
+	"frame": {"x":0,"y":3001,"w":845,"h":2371},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":33,"w":845,"h":2371},
+	"sourceSize": {"w":900,"h":2430}
+},
+{
+	"filename": "journalist-paper_big",
+	"frame": {"x":0,"y":0,"w":2033,"h":2999},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":38,"w":2033,"h":2999},
+	"sourceSize": {"w":2160,"h":3075}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas_3_3.png",
+	"format": "RGBA8888",
+	"size": {"w":2033,"h":5372},
+	"scale": "0.75",
+	"smartupdate": "$TexturePacker:SmartUpdate:00098d82f93dc40a73c031babc5cbca7:0e30840be375e9ad0c199c69065c9cd7:eddc82f9f74ced3469ba9be1e67c5123$"
+}
+}

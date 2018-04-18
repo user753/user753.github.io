@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "chamber-of-secrets-bg_left",
+	"frame": {"x":0,"y":0,"w":3111,"h":3840},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":3111,"h":3840},
+	"sourceSize": {"w":3111,"h":3840}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas_3_2.png",
+	"format": "RGBA8888",
+	"size": {"w":3111,"h":3840},
+	"scale": "0.75",
+	"smartupdate": "$TexturePacker:SmartUpdate:b48c82002259ddd2405fcb72ac3301d6:0bdfc5c8deae36224d532838102cba92:092e562c7ebb35d79d8a0623d0dfd015$"
+}
+}
