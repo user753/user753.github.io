@@ -8,7 +8,26 @@
 </style>
     </head>
 		<body style="margin:0; padding:0;">
-				<video src="/assets/dossier/video/intro2.mp4" width="200" height="200" controls muted playsinline>
-				</video>
+			<script>
+				alert("1");
+            var video = document.createElement("video");
+            //video.controls = false;
+            //video.autoplay = true;
+            //video.preload = "auto";
+            //video.setAttribute('webkit-playsinline', 'webkit-playsinline');
+            //video.setAttribute('playsinline', 'playsinline');
+            video.addEventListener("canplaythrough", function () {
+							alert("canplay");
+                _this.loaded.push(key);
+            }, false);
+						video.addEventListener('error', function (e)
+						{
+							alert("err " + JSON.stringify(e));
+						});
+
+						document.body.appendChild(video)
+            video.src = "assets/dossier/video/intro2.mp4";
+            video.load();
+			</script>
 		</body>
 </html>
