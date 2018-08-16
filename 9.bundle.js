@@ -825,7 +825,7 @@ var MainComponent = /** @class */ (function (_super) {
             start: function () {
                 __WEBPACK_IMPORTED_MODULE_1_core_services_instances__["b" /* htmlVideoService */].play(_this.gameKey("intro"));
             },
-            onComplete: __WEBPACK_IMPORTED_MODULE_2_core_ui_animations_signals__["a" /* Signals */].bind(this.delay(2000), function () {
+            onComplete: __WEBPACK_IMPORTED_MODULE_2_core_ui_animations_signals__["a" /* Signals */].bind(this.delay(5000), function () {
                 __WEBPACK_IMPORTED_MODULE_1_core_services_instances__["b" /* htmlVideoService */].stop(_this.gameKey("intro"));
                 return __WEBPACK_IMPORTED_MODULE_2_core_ui_animations_signals__["a" /* Signals */].memorize();
             })
