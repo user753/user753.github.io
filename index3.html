@@ -11,26 +11,5 @@
 				<video controls muted playsinline>
 					<source src="/intro.mp4" type="video/mp4">
 				</video>
-			<script>
-				    alert("5");
-            var video = document.createElement("video");
-            //video.controls = false;
-            //video.autoplay = true;
-            //video.preload = "auto";
-            //video.setAttribute('webkit-playsinline', 'webkit-playsinline');
-            //video.setAttribute('playsinline', 'playsinline');
-            video.addEventListener("canplaythrough", function () {
-							alert("canplay");
-                _this.loaded.push(key);
-            }, false);
-						video.addEventListener('error', function (e)
-						{
-							alert("err " + JSON.stringify(e));
-						});
-
-						document.body.appendChild(video)
-            video.src = "/assets/dossier/video/intro.mp4";
-            video.load();
-			</script>
 		</body>
 </html>
