@@ -8,9 +8,11 @@
 </style>
     </head>
 		<body style="margin:0; padding:0;">
-			<video src="/assets/dossier/video/intro.mp4" controls muted playsinline> </video>
+				<video>
+					<source src="/assets/dossier/video/intro.mp4"  type="video/mp4">
+				</video>
 			<script>
-				   alert("2")
+				    alert("3");
             var video = document.createElement("video");
             //video.controls = false;
             //video.autoplay = true;
@@ -19,6 +21,7 @@
             //video.setAttribute('playsinline', 'playsinline');
             video.addEventListener("canplaythrough", function () {
 							alert("canplay");
+                _this.loaded.push(key);
             }, false);
 						video.addEventListener('error', function (e)
 						{
