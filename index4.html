@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+				<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+        <title>Game</title>
+    </head>
+		<style>
+        
+			video {
+					position: absolute;
+					top: 0;
+					bottom: 0;
+					right: 0;
+					left: 0;
+					margin: auto;
+					min-height: 50%;
+					min-width: 50%;
+			}
+
+		</style>
+    <body style="margin:0; padding:0;">
+				<script src="./babel-polyfill.min.js"></script>
+        <script src="./vendor.bundle.js"></script>
+        <script src="./app.bundle.js?v6"></script>
+				<script>
+           NewGames.startDebug();
+				</script>
+    </body>
+</html>
