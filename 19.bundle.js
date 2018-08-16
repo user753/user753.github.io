@@ -1,6 +1,6 @@
 webpackJsonpNewGames([19],{
 
-/***/ 138:
+/***/ 139:
 /*!************************************************!*\
   !*** ./src/games/mnemonics/soundstory/meta.ts ***!
   \************************************************/
@@ -12,7 +12,7 @@ webpackJsonpNewGames([19],{
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "gameId", function() { return gameId; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "metaData", function() { return metaData; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__assets__ = __webpack_require__(/*! ./assets */ 187);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__assets__ = __webpack_require__(/*! ./assets */ 188);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_mainComponent__ = __webpack_require__(/*! ./components/mainComponent */ 262);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__levels__ = __webpack_require__(/*! ./levels */ 264);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__logic__ = __webpack_require__(/*! ./logic */ 265);
@@ -52,7 +52,7 @@ var metaData = {
 
 /***/ }),
 
-/***/ 156:
+/***/ 157:
 /*!***************************************************************!*\
   !*** ./src/core/ui/components/games/baseMainGameComponent.ts ***!
   \***************************************************************/
@@ -212,7 +212,7 @@ var BaseMainGameComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 187:
+/***/ 188:
 /*!**************************************************!*\
   !*** ./src/games/mnemonics/soundstory/assets.ts ***!
   \**************************************************/
@@ -278,11 +278,11 @@ var Images;
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return MainComponent; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_tslib__ = __webpack_require__(/*! tslib */ 0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_ui_components_games_baseMainGameComponent__ = __webpack_require__(/*! core/ui/components/games/baseMainGameComponent */ 156);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_ui_components_games_baseMainGameComponent__ = __webpack_require__(/*! core/ui/components/games/baseMainGameComponent */ 157);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_controls_btn__ = __webpack_require__(/*! core/ui/controls/btn */ 61);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__assets__ = __webpack_require__(/*! ../assets */ 187);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__assets__ = __webpack_require__(/*! ../assets */ 188);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__questionComponent__ = __webpack_require__(/*! ./questionComponent */ 263);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_games_mnemonics_soundstory_assets__ = __webpack_require__(/*! games/mnemonics/soundstory/assets */ 187);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_games_mnemonics_soundstory_assets__ = __webpack_require__(/*! games/mnemonics/soundstory/assets */ 188);
 
 
 
@@ -437,7 +437,7 @@ var levels = Object(__WEBPACK_IMPORTED_MODULE_0_core_types_logic__["d" /* create
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_tslib__ = __webpack_require__(/*! tslib */ 0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_logic__ = __webpack_require__(/*! core/logic */ 25);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_utils__ = __webpack_require__(/*! core/utils */ 9);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_games_mnemonics_soundstory_assets__ = __webpack_require__(/*! games/mnemonics/soundstory/assets */ 187);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_games_mnemonics_soundstory_assets__ = __webpack_require__(/*! games/mnemonics/soundstory/assets */ 188);
 
 
 

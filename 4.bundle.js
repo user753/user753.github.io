@@ -1,6 +1,6 @@
 webpackJsonpNewGames([4],{
 
-/***/ 134:
+/***/ 135:
 /*!*************************************!*\
   !*** ./src/games/detective/meta.ts ***!
   \*************************************/
@@ -12,10 +12,10 @@ webpackJsonpNewGames([4],{
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "gameId", function() { return gameId; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "metaData", function() { return metaData; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_games_detective_components_mainComponent__ = __webpack_require__(/*! games/detective/components/mainComponent */ 231);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_games_detective_logic__ = __webpack_require__(/*! games/detective/logic */ 240);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__assets__ = __webpack_require__(/*! ./assets */ 168);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__levels__ = __webpack_require__(/*! ./levels */ 206);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_games_detective_components_mainComponent__ = __webpack_require__(/*! games/detective/components/mainComponent */ 232);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_games_detective_logic__ = __webpack_require__(/*! games/detective/logic */ 241);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__assets__ = __webpack_require__(/*! ./assets */ 169);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__levels__ = __webpack_require__(/*! ./levels */ 207);
 
 
 
@@ -53,7 +53,7 @@ var metaData = {
 
 /***/ }),
 
-/***/ 154:
+/***/ 155:
 /*!*********************************************!*\
   !*** ./src/core/ui/controls/GraphicsImg.ts ***!
   \*********************************************/
@@ -109,7 +109,7 @@ var BtnDefaultImg = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 155:
+/***/ 156:
 /*!***************************************************************!*\
   !*** ./src/core/ui/components/games/gameUI/panelComponent.ts ***!
   \***************************************************************/
@@ -122,7 +122,7 @@ var BtnDefaultImg = /** @class */ (function (_super) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_tslib__ = __webpack_require__(/*! tslib */ 0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_ui_components_component__ = __webpack_require__(/*! core/ui/components/component */ 12);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_controls_GraphicsImg__ = __webpack_require__(/*! core/ui/controls/GraphicsImg */ 154);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_controls_GraphicsImg__ = __webpack_require__(/*! core/ui/controls/GraphicsImg */ 155);
 
 
 
@@ -158,7 +158,7 @@ var PanelComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 156:
+/***/ 157:
 /*!***************************************************************!*\
   !*** ./src/core/ui/components/games/baseMainGameComponent.ts ***!
   \***************************************************************/
@@ -318,7 +318,7 @@ var BaseMainGameComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 157:
+/***/ 158:
 /*!*************************************!*\
   !*** ./src/core/utils/circleSeq.ts ***!
   \*************************************/
@@ -419,7 +419,7 @@ var UniqSeq = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 158:
+/***/ 159:
 /*!**********************************************************************!*\
   !*** ./src/core/ui/components/games/gameUI/tutorialTextComponent.ts ***!
   \**********************************************************************/
@@ -435,7 +435,7 @@ var UniqSeq = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_animations_commonAnimations__ = __webpack_require__(/*! core/ui/animations/commonAnimations */ 23);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_ui_components_games_gameComponent__ = __webpack_require__(/*! core/ui/components/games/gameComponent */ 33);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_core_ui_components_games_gameUI_panelComponent__ = __webpack_require__(/*! core/ui/components/games/gameUI/panelComponent */ 155);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_core_ui_components_games_gameUI_panelComponent__ = __webpack_require__(/*! core/ui/components/games/gameUI/panelComponent */ 156);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_core_ui_controls_index__ = __webpack_require__(/*! core/ui/controls/index */ 4);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_core_ui_controls_btn__ = __webpack_require__(/*! core/ui/controls/btn */ 61);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_core_ui_services_instances__ = __webpack_require__(/*! core/ui/services/instances */ 1);
@@ -525,7 +525,7 @@ var TutorialTextComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 159:
+/***/ 160:
 /*!****************************************************************!*\
   !*** ./src/core/ui/controls/behaviors/textOnCenterBehavior.ts ***!
   \****************************************************************/
@@ -582,7 +582,7 @@ var TextOnCenterBehavior = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 161:
+/***/ 162:
 /*!*******************************************************************!*\
   !*** ./src/core/ui/components/games/gameUI/textPanelComponent.ts ***!
   \*******************************************************************/
@@ -596,8 +596,8 @@ var TextOnCenterBehavior = /** @class */ (function (_super) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_assets_index__ = __webpack_require__(/*! core/assets/index */ 5);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_components_component__ = __webpack_require__(/*! core/ui/components/component */ 12);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_core_ui_components_games_gameUI_panelComponent__ = __webpack_require__(/*! core/ui/components/games/gameUI/panelComponent */ 155);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_ui_controls_behaviors_textOnCenterBehavior__ = __webpack_require__(/*! core/ui/controls/behaviors/textOnCenterBehavior */ 159);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_core_ui_components_games_gameUI_panelComponent__ = __webpack_require__(/*! core/ui/components/games/gameUI/panelComponent */ 156);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_ui_controls_behaviors_textOnCenterBehavior__ = __webpack_require__(/*! core/ui/controls/behaviors/textOnCenterBehavior */ 160);
 
 
 
@@ -634,7 +634,7 @@ var TextPanelComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 162:
+/***/ 163:
 /*!*****************************************************************!*\
   !*** ./src/core/ui/components/games/introAnimationComponent.ts ***!
   \*****************************************************************/
@@ -689,7 +689,7 @@ var IntroAnimationComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 164:
+/***/ 165:
 /*!*************************************************************************!*\
   !*** ./src/core/ui/controls/behaviors/introComplexAnimationBehavior.ts ***!
   \*************************************************************************/
@@ -701,7 +701,7 @@ var IntroAnimationComponent = /** @class */ (function (_super) {
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return IntroComplexAnimationBehavior; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_tslib__ = __webpack_require__(/*! tslib */ 0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_ui_components_games_introAnimationComponent__ = __webpack_require__(/*! core/ui/components/games/introAnimationComponent */ 162);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_ui_components_games_introAnimationComponent__ = __webpack_require__(/*! core/ui/components/games/introAnimationComponent */ 163);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_controls_behaviors_behavior__ = __webpack_require__(/*! core/ui/controls/behaviors/behavior */ 30);
 
 
@@ -731,7 +731,7 @@ var IntroComplexAnimationBehavior = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 168:
+/***/ 169:
 /*!***************************************!*\
   !*** ./src/games/detective/assets.ts ***!
   \***************************************/
@@ -746,7 +746,7 @@ var IntroComplexAnimationBehavior = /** @class */ (function (_super) {
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return Images; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return Translations; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_core_assets_fonts__ = __webpack_require__(/*! core/assets/fonts */ 34);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_games_detective_mainLogic__ = __webpack_require__(/*! games/detective/mainLogic */ 204);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_games_detective_mainLogic__ = __webpack_require__(/*! games/detective/mainLogic */ 205);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_lodash__ = __webpack_require__(/*! lodash */ 2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_lodash___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_lodash__);
 
@@ -830,7 +830,7 @@ var Translations;
 
 /***/ }),
 
-/***/ 169:
+/***/ 170:
 /*!*****************************************************************!*\
   !*** ./src/core/ui/controls/behaviors/btnAlphaHoverBehavior.ts ***!
   \*****************************************************************/
@@ -864,7 +864,7 @@ var BtnAlphaHover = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 204:
+/***/ 205:
 /*!******************************************!*\
   !*** ./src/games/detective/mainLogic.ts ***!
   \******************************************/
@@ -875,10 +875,10 @@ var BtnAlphaHover = /** @class */ (function (_super) {
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return itemCount; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Logic; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_core_utils_circleSeq__ = __webpack_require__(/*! core/utils/circleSeq */ 157);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_core_utils_circleSeq__ = __webpack_require__(/*! core/utils/circleSeq */ 158);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_utils_index__ = __webpack_require__(/*! core/utils/index */ 9);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_utils_undef__ = __webpack_require__(/*! core/utils/undef */ 8);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_games_detective_words__ = __webpack_require__(/*! games/detective/words */ 232);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_games_detective_words__ = __webpack_require__(/*! games/detective/words */ 233);
 
 
 
@@ -920,7 +920,7 @@ var Logic = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 205:
+/***/ 206:
 /*!*****************************************************!*\
   !*** ./src/core/ui/controls/imageWithBackground.ts ***!
   \*****************************************************/
@@ -963,7 +963,7 @@ var ImageWithBackground = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 206:
+/***/ 207:
 /*!***************************************!*\
   !*** ./src/games/detective/levels.ts ***!
   \***************************************/
@@ -1000,7 +1000,7 @@ var levels = Object(__WEBPACK_IMPORTED_MODULE_0_core_types_logic__["d" /* create
 
 /***/ }),
 
-/***/ 231:
+/***/ 232:
 /*!*********************************************************!*\
   !*** ./src/games/detective/components/mainComponent.ts ***!
   \*********************************************************/
@@ -1011,11 +1011,11 @@ var levels = Object(__WEBPACK_IMPORTED_MODULE_0_core_types_logic__["d" /* create
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return MainComponent; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_tslib__ = __webpack_require__(/*! tslib */ 0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_ui_components_games_baseMainGameComponent__ = __webpack_require__(/*! core/ui/components/games/baseMainGameComponent */ 156);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_ui_controls_behaviors_introComplexAnimationBehavior__ = __webpack_require__(/*! core/ui/controls/behaviors/introComplexAnimationBehavior */ 164);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_games_detective_assets__ = __webpack_require__(/*! games/detective/assets */ 168);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__main_mainComponent__ = __webpack_require__(/*! ./main/mainComponent */ 234);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__remember_mainComponent__ = __webpack_require__(/*! ./remember/mainComponent */ 238);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_ui_components_games_baseMainGameComponent__ = __webpack_require__(/*! core/ui/components/games/baseMainGameComponent */ 157);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_ui_controls_behaviors_introComplexAnimationBehavior__ = __webpack_require__(/*! core/ui/controls/behaviors/introComplexAnimationBehavior */ 165);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_games_detective_assets__ = __webpack_require__(/*! games/detective/assets */ 169);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__main_mainComponent__ = __webpack_require__(/*! ./main/mainComponent */ 235);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__remember_mainComponent__ = __webpack_require__(/*! ./remember/mainComponent */ 239);
 
 
 
@@ -1076,7 +1076,7 @@ var MainComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 232:
+/***/ 233:
 /*!**************************************!*\
   !*** ./src/games/detective/words.ts ***!
   \**************************************/
@@ -1087,8 +1087,8 @@ var MainComponent = /** @class */ (function (_super) {
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Words; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_core_logic_cnst__ = __webpack_require__(/*! core/logic/cnst */ 36);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_services_instances__ = __webpack_require__(/*! core/services/instances */ 17);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__wordsRu__ = __webpack_require__(/*! ./wordsRu */ 233);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_services_instances__ = __webpack_require__(/*! core/services/instances */ 14);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__wordsRu__ = __webpack_require__(/*! ./wordsRu */ 234);
 
 
 
@@ -1098,7 +1098,7 @@ var wordsDB = {
 var Words;
 (function (Words) {
     function getWords() {
-        var localeWords = wordsDB[__WEBPACK_IMPORTED_MODULE_1_core_services_instances__["b" /* settingService */].settings.locale] || wordsDB[__WEBPACK_IMPORTED_MODULE_0_core_logic_cnst__["a" /* Cnst */].defaultLocale];
+        var localeWords = wordsDB[__WEBPACK_IMPORTED_MODULE_1_core_services_instances__["d" /* settingService */].settings.locale] || wordsDB[__WEBPACK_IMPORTED_MODULE_0_core_logic_cnst__["a" /* Cnst */].defaultLocale];
         return {
             easy: localeWords[1],
             normal: localeWords[1].concat(localeWords[2]),
@@ -1111,7 +1111,7 @@ var Words;
 
 /***/ }),
 
-/***/ 233:
+/***/ 234:
 /*!****************************************!*\
   !*** ./src/games/detective/wordsRu.ts ***!
   \****************************************/
@@ -1129,7 +1129,7 @@ var Words;
 
 /***/ }),
 
-/***/ 234:
+/***/ 235:
 /*!**************************************************************!*\
   !*** ./src/games/detective/components/main/mainComponent.ts ***!
   \**************************************************************/
@@ -1140,16 +1140,16 @@ var Words;
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return MainComponent; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_tslib__ = __webpack_require__(/*! tslib */ 0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_services_instances__ = __webpack_require__(/*! core/services/instances */ 17);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_services_instances__ = __webpack_require__(/*! core/services/instances */ 14);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_ui_animations_commonAnimations__ = __webpack_require__(/*! core/ui/animations/commonAnimations */ 23);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_core_ui_components_games_gameComponent__ = __webpack_require__(/*! core/ui/components/games/gameComponent */ 33);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_ui_components_games_gameUI_tutorialTextComponent__ = __webpack_require__(/*! core/ui/components/games/gameUI/tutorialTextComponent */ 158);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_ui_components_games_gameUI_tutorialTextComponent__ = __webpack_require__(/*! core/ui/components/games/gameUI/tutorialTextComponent */ 159);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_core_ui_controls_control__ = __webpack_require__(/*! core/ui/controls/control */ 11);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_core_ui_services_instances__ = __webpack_require__(/*! core/ui/services/instances */ 1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_games_detective_assets__ = __webpack_require__(/*! games/detective/assets */ 168);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_games_detective_components_main_carouselComponent__ = __webpack_require__(/*! games/detective/components/main/carouselComponent */ 235);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__answersComponent__ = __webpack_require__(/*! ./answersComponent */ 236);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_games_detective_assets__ = __webpack_require__(/*! games/detective/assets */ 169);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_games_detective_components_main_carouselComponent__ = __webpack_require__(/*! games/detective/components/main/carouselComponent */ 236);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__answersComponent__ = __webpack_require__(/*! ./answersComponent */ 237);
 
 
 
@@ -1193,7 +1193,7 @@ var MainComponent = /** @class */ (function (_super) {
         }
         if (this.isTutorial) {
             this.tutorial = this.add(this.createComponent(__WEBPACK_IMPORTED_MODULE_5_core_ui_components_games_gameUI_tutorialTextComponent__["a" /* TutorialTextComponent */]).make({ textAlign: "center" }));
-            this.tutorial.setProps(__WEBPACK_IMPORTED_MODULE_1_core_services_instances__["c" /* translationService */].getTranslation(__WEBPACK_IMPORTED_MODULE_8_games_detective_assets__["e" /* Translations */].title));
+            this.tutorial.setProps(__WEBPACK_IMPORTED_MODULE_1_core_services_instances__["e" /* translationService */].getTranslation(__WEBPACK_IMPORTED_MODULE_8_games_detective_assets__["e" /* Translations */].title));
             this.mainGroup.setBiPos(this.biPositions.mainGroup);
         }
         if (__WEBPACK_IMPORTED_MODULE_7_core_ui_services_instances__["e" /* screenSizeService */].isPortrait) {
@@ -1232,7 +1232,7 @@ var MainComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 235:
+/***/ 236:
 /*!******************************************************************!*\
   !*** ./src/games/detective/components/main/carouselComponent.ts ***!
   \******************************************************************/
@@ -1246,9 +1246,9 @@ var MainComponent = /** @class */ (function (_super) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_ui_animations_tweens__ = __webpack_require__(/*! core/ui/animations/tweens */ 28);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_components_index__ = __webpack_require__(/*! core/ui/components/index */ 29);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_core_ui_controls_imageWithBackground__ = __webpack_require__(/*! core/ui/controls/imageWithBackground */ 205);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_core_ui_controls_imageWithBackground__ = __webpack_require__(/*! core/ui/controls/imageWithBackground */ 206);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_utils_undef__ = __webpack_require__(/*! core/utils/undef */ 8);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_games_detective_assets__ = __webpack_require__(/*! games/detective/assets */ 168);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_games_detective_assets__ = __webpack_require__(/*! games/detective/assets */ 169);
 
 
 
@@ -1366,7 +1366,7 @@ var CarouselComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 236:
+/***/ 237:
 /*!*****************************************************************!*\
   !*** ./src/games/detective/components/main/answersComponent.ts ***!
   \*****************************************************************/
@@ -1381,12 +1381,12 @@ var CarouselComponent = /** @class */ (function (_super) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_types_logic__ = __webpack_require__(/*! core/types/logic */ 21);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_core_ui_components_games_gameComponent__ = __webpack_require__(/*! core/ui/components/games/gameComponent */ 33);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_ui_controls_behaviors_btnAlphaHoverBehavior__ = __webpack_require__(/*! core/ui/controls/behaviors/btnAlphaHoverBehavior */ 169);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_core_ui_controls_behaviors_btnHoverSoundBehavior__ = __webpack_require__(/*! core/ui/controls/behaviors/btnHoverSoundBehavior */ 237);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_ui_controls_behaviors_btnAlphaHoverBehavior__ = __webpack_require__(/*! core/ui/controls/behaviors/btnAlphaHoverBehavior */ 170);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_core_ui_controls_behaviors_btnHoverSoundBehavior__ = __webpack_require__(/*! core/ui/controls/behaviors/btnHoverSoundBehavior */ 238);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_core_ui_controls_controlUtl__ = __webpack_require__(/*! core/ui/controls/controlUtl */ 63);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_core_ui_controls_index__ = __webpack_require__(/*! core/ui/controls/index */ 4);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_core_ui_services_instances__ = __webpack_require__(/*! core/ui/services/instances */ 1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_games_detective_assets__ = __webpack_require__(/*! games/detective/assets */ 168);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_games_detective_assets__ = __webpack_require__(/*! games/detective/assets */ 169);
 
 
 
@@ -1452,7 +1452,7 @@ var AnswersComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 237:
+/***/ 238:
 /*!*****************************************************************!*\
   !*** ./src/core/ui/controls/behaviors/btnHoverSoundBehavior.ts ***!
   \*****************************************************************/
@@ -1489,7 +1489,7 @@ var BtnHoverSoundBehavior = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 238:
+/***/ 239:
 /*!******************************************************************!*\
   !*** ./src/games/detective/components/remember/mainComponent.ts ***!
   \******************************************************************/
@@ -1500,18 +1500,18 @@ var BtnHoverSoundBehavior = /** @class */ (function (_super) {
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return MainComponent; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_tslib__ = __webpack_require__(/*! tslib */ 0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_services_instances__ = __webpack_require__(/*! core/services/instances */ 17);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_services_instances__ = __webpack_require__(/*! core/services/instances */ 14);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_types_logic__ = __webpack_require__(/*! core/types/logic */ 21);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_common_positions__ = __webpack_require__(/*! core/ui/common/positions */ 66);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_ui_components_games_gameComponent__ = __webpack_require__(/*! core/ui/components/games/gameComponent */ 33);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_core_ui_components_games_gameUI_textPanelComponent__ = __webpack_require__(/*! core/ui/components/games/gameUI/textPanelComponent */ 161);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_core_ui_components_games_gameUI_tutorialTextComponent__ = __webpack_require__(/*! core/ui/components/games/gameUI/tutorialTextComponent */ 158);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_core_ui_components_games_gameUI_textPanelComponent__ = __webpack_require__(/*! core/ui/components/games/gameUI/textPanelComponent */ 162);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_core_ui_components_games_gameUI_tutorialTextComponent__ = __webpack_require__(/*! core/ui/components/games/gameUI/tutorialTextComponent */ 159);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_core_ui_controls_index__ = __webpack_require__(/*! core/ui/controls/index */ 4);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_core_ui_services_instances__ = __webpack_require__(/*! core/ui/services/instances */ 1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_core_utils_undef__ = __webpack_require__(/*! core/utils/undef */ 8);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11_games_detective_assets__ = __webpack_require__(/*! games/detective/assets */ 168);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__answersComponent__ = __webpack_require__(/*! ./answersComponent */ 239);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11_games_detective_assets__ = __webpack_require__(/*! games/detective/assets */ 169);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__answersComponent__ = __webpack_require__(/*! ./answersComponent */ 240);
 
 
 
@@ -1574,7 +1574,7 @@ var MainComponent = /** @class */ (function (_super) {
                 textAlign: "center",
                 panel: { color: this.current(biValues.panelColor), size: this.getPositions().tutorialPanel }
             }));
-            this.tutorial.setProps(__WEBPACK_IMPORTED_MODULE_1_core_services_instances__["c" /* translationService */].getTranslation(__WEBPACK_IMPORTED_MODULE_11_games_detective_assets__["e" /* Translations */].subtitle));
+            this.tutorial.setProps(__WEBPACK_IMPORTED_MODULE_1_core_services_instances__["e" /* translationService */].getTranslation(__WEBPACK_IMPORTED_MODULE_11_games_detective_assets__["e" /* Translations */].subtitle));
             this.mainGroup.setPos(this.getPositions().mainGroup);
         }
     };
@@ -1627,7 +1627,7 @@ var MainComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 239:
+/***/ 240:
 /*!*********************************************************************!*\
   !*** ./src/games/detective/components/remember/answersComponent.ts ***!
   \*********************************************************************/
@@ -1645,12 +1645,12 @@ var MainComponent = /** @class */ (function (_super) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_core_ui_components_games_gameComponent__ = __webpack_require__(/*! core/ui/components/games/gameComponent */ 33);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_core_ui_controls_controlUtl__ = __webpack_require__(/*! core/ui/controls/controlUtl */ 63);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_core_ui_controls_GraphicsImg__ = __webpack_require__(/*! core/ui/controls/GraphicsImg */ 154);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_core_ui_controls_imageWithBackground__ = __webpack_require__(/*! core/ui/controls/imageWithBackground */ 205);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_core_ui_controls_GraphicsImg__ = __webpack_require__(/*! core/ui/controls/GraphicsImg */ 155);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_core_ui_controls_imageWithBackground__ = __webpack_require__(/*! core/ui/controls/imageWithBackground */ 206);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_core_ui_controls_index__ = __webpack_require__(/*! core/ui/controls/index */ 4);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_11_core_ui_services_instances__ = __webpack_require__(/*! core/ui/services/instances */ 1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_12_core_utils_index__ = __webpack_require__(/*! core/utils/index */ 9);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13_games_detective_assets__ = __webpack_require__(/*! games/detective/assets */ 168);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13_games_detective_assets__ = __webpack_require__(/*! games/detective/assets */ 169);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_14_lodash__ = __webpack_require__(/*! lodash */ 2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_14_lodash___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_14_lodash__);
 
@@ -1787,7 +1787,7 @@ var AnswersComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 240:
+/***/ 241:
 /*!**************************************!*\
   !*** ./src/games/detective/logic.ts ***!
   \**************************************/
@@ -1801,9 +1801,9 @@ var AnswersComponent = /** @class */ (function (_super) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_logic_index__ = __webpack_require__(/*! core/logic/index */ 25);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_lodash__ = __webpack_require__(/*! lodash */ 2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_lodash___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_lodash__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__levels__ = __webpack_require__(/*! ./levels */ 206);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__mainLogic__ = __webpack_require__(/*! ./mainLogic */ 204);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__rememberLogic__ = __webpack_require__(/*! ./rememberLogic */ 241);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__levels__ = __webpack_require__(/*! ./levels */ 207);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__mainLogic__ = __webpack_require__(/*! ./mainLogic */ 205);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__rememberLogic__ = __webpack_require__(/*! ./rememberLogic */ 242);
 
 
 
@@ -1855,7 +1855,7 @@ var Logic = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 241:
+/***/ 242:
 /*!**********************************************!*\
   !*** ./src/games/detective/rememberLogic.ts ***!
   \**********************************************/

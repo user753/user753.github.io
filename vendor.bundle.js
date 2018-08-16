@@ -148,12 +148,12 @@ var NewGames =
 /******/ 	__webpack_require__.oe = function(err) { console.error(err); throw err; };
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 130);
+/******/ 	return __webpack_require__(__webpack_require__.s = 131);
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ 127:
+/***/ 128:
 /*!************************************************************************************!*\
   !*** ./node_modules/source-map-loader!./node_modules/phaser-ce/build/custom/p2.js ***!
   \************************************************************************************/
@@ -13786,7 +13786,7 @@ World.prototype.raycast = function(result, ray){
 
 /***/ }),
 
-/***/ 128:
+/***/ 129:
 /*!**************************************************************************************!*\
   !*** ./node_modules/source-map-loader!./node_modules/phaser-ce/build/custom/pixi.js ***!
   \**************************************************************************************/
@@ -21369,7 +21369,7 @@ PIXI.TextureUvs = function()
 
 /***/ }),
 
-/***/ 130:
+/***/ 131:
 /*!****************************!*\
   !*** multi pixi p2 phaser ***!
   \****************************/
@@ -21379,12 +21379,12 @@ PIXI.TextureUvs = function()
 
 __webpack_require__(/*! pixi */60);
 __webpack_require__(/*! p2 */59);
-module.exports = __webpack_require__(/*! phaser */131);
+module.exports = __webpack_require__(/*! phaser */132);
 
 
 /***/ }),
 
-/***/ 131:
+/***/ 132:
 /*!*************************************************************!*\
   !*** ./node_modules/phaser-ce/build/custom/phaser-split.js ***!
   \*************************************************************/
@@ -21392,12 +21392,12 @@ module.exports = __webpack_require__(/*! phaser */131);
 /*! all exports used */
 /***/ (function(module, exports, __webpack_require__) {
 
-/* WEBPACK VAR INJECTION */(function(global) {module.exports = global["Phaser"] = __webpack_require__(/*! -!./node_modules/source-map-loader!./phaser-split.js */ 132);
-/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(/*! ./../../../webpack/buildin/global.js */ 16)))
+/* WEBPACK VAR INJECTION */(function(global) {module.exports = global["Phaser"] = __webpack_require__(/*! -!./node_modules/source-map-loader!./phaser-split.js */ 133);
+/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(/*! ./../../../webpack/buildin/global.js */ 17)))
 
 /***/ }),
 
-/***/ 132:
+/***/ 133:
 /*!**********************************************************************************************!*\
   !*** ./node_modules/source-map-loader!./node_modules/phaser-ce/build/custom/phaser-split.js ***!
   \**********************************************************************************************/
@@ -108342,7 +108342,7 @@ PIXI.canUseNewCanvasBlendModes = function () {
 
 /***/ }),
 
-/***/ 16:
+/***/ 17:
 /*!***********************************!*\
   !*** (webpack)/buildin/global.js ***!
   \***********************************/
@@ -108579,8 +108579,8 @@ process.umask = function() { return 0; };
 /*! all exports used */
 /***/ (function(module, exports, __webpack_require__) {
 
-/* WEBPACK VAR INJECTION */(function(global) {module.exports = global["p2"] = __webpack_require__(/*! -!./node_modules/source-map-loader!./p2.js */ 127);
-/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(/*! ./../../../webpack/buildin/global.js */ 16)))
+/* WEBPACK VAR INJECTION */(function(global) {module.exports = global["p2"] = __webpack_require__(/*! -!./node_modules/source-map-loader!./p2.js */ 128);
+/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(/*! ./../../../webpack/buildin/global.js */ 17)))
 
 /***/ }),
 
@@ -108592,8 +108592,8 @@ process.umask = function() { return 0; };
 /*! all exports used */
 /***/ (function(module, exports, __webpack_require__) {
 
-/* WEBPACK VAR INJECTION */(function(global) {module.exports = global["PIXI"] = __webpack_require__(/*! -!./node_modules/source-map-loader!./pixi.js */ 128);
-/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(/*! ./../../../webpack/buildin/global.js */ 16)))
+/* WEBPACK VAR INJECTION */(function(global) {module.exports = global["PIXI"] = __webpack_require__(/*! -!./node_modules/source-map-loader!./pixi.js */ 129);
+/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(/*! ./../../../webpack/buildin/global.js */ 17)))
 
 /***/ })
 

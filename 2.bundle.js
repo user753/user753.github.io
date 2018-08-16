@@ -1,6 +1,6 @@
 webpackJsonpNewGames([2],{
 
-/***/ 143:
+/***/ 144:
 /*!***********************************************!*\
   !*** ./src/games/polyglot/wordmaster/meta.ts ***!
   \***********************************************/
@@ -13,9 +13,9 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "gameId", function() { return gameId; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "metaData", function() { return metaData; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_tslib__ = __webpack_require__(/*! tslib */ 0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_games_polyglot_common_commonMeta__ = __webpack_require__(/*! games/polyglot/common/commonMeta */ 175);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_games_polyglot_common_wordsSounds__ = __webpack_require__(/*! games/polyglot/common/wordsSounds */ 163);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_games_polyglot_wordmaster_images__ = __webpack_require__(/*! games/polyglot/wordmaster/images */ 199);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_games_polyglot_common_commonMeta__ = __webpack_require__(/*! games/polyglot/common/commonMeta */ 176);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_games_polyglot_common_wordsSounds__ = __webpack_require__(/*! games/polyglot/common/wordsSounds */ 164);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_games_polyglot_wordmaster_images__ = __webpack_require__(/*! games/polyglot/wordmaster/images */ 200);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_mainComponent__ = __webpack_require__(/*! ./components/mainComponent */ 296);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__levels__ = __webpack_require__(/*! ./levels */ 299);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__logic__ = __webpack_require__(/*! ./logic */ 300);
@@ -45,7 +45,7 @@ var metaData = __WEBPACK_IMPORTED_MODULE_0_tslib__["a" /* __assign */]({}, __WEB
 
 /***/ }),
 
-/***/ 154:
+/***/ 155:
 /*!*********************************************!*\
   !*** ./src/core/ui/controls/GraphicsImg.ts ***!
   \*********************************************/
@@ -101,7 +101,7 @@ var BtnDefaultImg = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 155:
+/***/ 156:
 /*!***************************************************************!*\
   !*** ./src/core/ui/components/games/gameUI/panelComponent.ts ***!
   \***************************************************************/
@@ -114,7 +114,7 @@ var BtnDefaultImg = /** @class */ (function (_super) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_tslib__ = __webpack_require__(/*! tslib */ 0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_ui_components_component__ = __webpack_require__(/*! core/ui/components/component */ 12);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_controls_GraphicsImg__ = __webpack_require__(/*! core/ui/controls/GraphicsImg */ 154);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_controls_GraphicsImg__ = __webpack_require__(/*! core/ui/controls/GraphicsImg */ 155);
 
 
 
@@ -150,7 +150,7 @@ var PanelComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 156:
+/***/ 157:
 /*!***************************************************************!*\
   !*** ./src/core/ui/components/games/baseMainGameComponent.ts ***!
   \***************************************************************/
@@ -310,7 +310,7 @@ var BaseMainGameComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 157:
+/***/ 158:
 /*!*************************************!*\
   !*** ./src/core/utils/circleSeq.ts ***!
   \*************************************/
@@ -411,7 +411,7 @@ var UniqSeq = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 158:
+/***/ 159:
 /*!**********************************************************************!*\
   !*** ./src/core/ui/components/games/gameUI/tutorialTextComponent.ts ***!
   \**********************************************************************/
@@ -427,7 +427,7 @@ var UniqSeq = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_animations_commonAnimations__ = __webpack_require__(/*! core/ui/animations/commonAnimations */ 23);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_ui_components_games_gameComponent__ = __webpack_require__(/*! core/ui/components/games/gameComponent */ 33);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_core_ui_components_games_gameUI_panelComponent__ = __webpack_require__(/*! core/ui/components/games/gameUI/panelComponent */ 155);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_core_ui_components_games_gameUI_panelComponent__ = __webpack_require__(/*! core/ui/components/games/gameUI/panelComponent */ 156);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_core_ui_controls_index__ = __webpack_require__(/*! core/ui/controls/index */ 4);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_core_ui_controls_btn__ = __webpack_require__(/*! core/ui/controls/btn */ 61);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_core_ui_services_instances__ = __webpack_require__(/*! core/ui/services/instances */ 1);
@@ -517,7 +517,7 @@ var TutorialTextComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 159:
+/***/ 160:
 /*!****************************************************************!*\
   !*** ./src/core/ui/controls/behaviors/textOnCenterBehavior.ts ***!
   \****************************************************************/
@@ -574,7 +574,7 @@ var TextOnCenterBehavior = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 160:
+/***/ 161:
 /*!*************************************************!*\
   !*** ./src/games/polyglot/common/wordImages.ts ***!
   \*************************************************/
@@ -612,7 +612,7 @@ var WordImages;
 
 /***/ }),
 
-/***/ 161:
+/***/ 162:
 /*!*******************************************************************!*\
   !*** ./src/core/ui/components/games/gameUI/textPanelComponent.ts ***!
   \*******************************************************************/
@@ -626,8 +626,8 @@ var WordImages;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_assets_index__ = __webpack_require__(/*! core/assets/index */ 5);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_components_component__ = __webpack_require__(/*! core/ui/components/component */ 12);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_core_ui_components_games_gameUI_panelComponent__ = __webpack_require__(/*! core/ui/components/games/gameUI/panelComponent */ 155);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_ui_controls_behaviors_textOnCenterBehavior__ = __webpack_require__(/*! core/ui/controls/behaviors/textOnCenterBehavior */ 159);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_core_ui_components_games_gameUI_panelComponent__ = __webpack_require__(/*! core/ui/components/games/gameUI/panelComponent */ 156);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_ui_controls_behaviors_textOnCenterBehavior__ = __webpack_require__(/*! core/ui/controls/behaviors/textOnCenterBehavior */ 160);
 
 
 
@@ -664,7 +664,7 @@ var TextPanelComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 162:
+/***/ 163:
 /*!*****************************************************************!*\
   !*** ./src/core/ui/components/games/introAnimationComponent.ts ***!
   \*****************************************************************/
@@ -719,7 +719,7 @@ var IntroAnimationComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 163:
+/***/ 164:
 /*!**************************************************!*\
   !*** ./src/games/polyglot/common/wordsSounds.ts ***!
   \**************************************************/
@@ -741,7 +741,7 @@ var WordsSounds;
 
 /***/ }),
 
-/***/ 164:
+/***/ 165:
 /*!*************************************************************************!*\
   !*** ./src/core/ui/controls/behaviors/introComplexAnimationBehavior.ts ***!
   \*************************************************************************/
@@ -753,7 +753,7 @@ var WordsSounds;
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return IntroComplexAnimationBehavior; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_tslib__ = __webpack_require__(/*! tslib */ 0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_ui_components_games_introAnimationComponent__ = __webpack_require__(/*! core/ui/components/games/introAnimationComponent */ 162);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_ui_components_games_introAnimationComponent__ = __webpack_require__(/*! core/ui/components/games/introAnimationComponent */ 163);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_controls_behaviors_behavior__ = __webpack_require__(/*! core/ui/controls/behaviors/behavior */ 30);
 
 
@@ -783,7 +783,7 @@ var IntroComplexAnimationBehavior = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 166:
+/***/ 167:
 /*!********************************************!*\
   !*** ./src/games/polyglot/common/fonts.ts ***!
   \********************************************/
@@ -812,7 +812,7 @@ var Fonts;
 
 /***/ }),
 
-/***/ 169:
+/***/ 170:
 /*!*****************************************************************!*\
   !*** ./src/core/ui/controls/behaviors/btnAlphaHoverBehavior.ts ***!
   \*****************************************************************/
@@ -846,7 +846,7 @@ var BtnAlphaHover = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 173:
+/***/ 174:
 /*!****************************************************************!*\
   !*** ./src/games/polyglot/common/components/PaperComponent.ts ***!
   \****************************************************************/
@@ -859,7 +859,7 @@ var BtnAlphaHover = /** @class */ (function (_super) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_tslib__ = __webpack_require__(/*! tslib */ 0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_ui_components_index__ = __webpack_require__(/*! core/ui/components/index */ 29);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__wordImages__ = __webpack_require__(/*! ../wordImages */ 160);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__wordImages__ = __webpack_require__(/*! ../wordImages */ 161);
 
 
 
@@ -887,7 +887,7 @@ var PaperComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 174:
+/***/ 175:
 /*!**************************************!*\
   !*** ./src/games/utils/localeUtl.ts ***!
   \**************************************/
@@ -910,7 +910,7 @@ var LocaleUtl;
 
 /***/ }),
 
-/***/ 175:
+/***/ 176:
 /*!*************************************************!*\
   !*** ./src/games/polyglot/common/commonMeta.ts ***!
   \*************************************************/
@@ -920,7 +920,7 @@ var LocaleUtl;
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return metaData; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_core_logic_taskCount__ = __webpack_require__(/*! core/logic/taskCount */ 176);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_core_logic_taskCount__ = __webpack_require__(/*! core/logic/taskCount */ 177);
 
 var levelsTaskCount = [
     { taskCount: 8, maxLevel: 3 },
@@ -945,7 +945,7 @@ var metaData = {
 
 /***/ }),
 
-/***/ 176:
+/***/ 177:
 /*!*************************************!*\
   !*** ./src/core/logic/taskCount.ts ***!
   \*************************************/
@@ -970,7 +970,7 @@ var LevelsTaskCountCreator = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 177:
+/***/ 178:
 /*!***********************************************************************!*\
   !*** ./src/games/polyglot/common/components/baseWordMainComponent.ts ***!
   \***********************************************************************/
@@ -986,15 +986,15 @@ var LevelsTaskCountCreator = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_animations_signals__ = __webpack_require__(/*! core/ui/animations/signals */ 22);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_core_ui_animations_tweens__ = __webpack_require__(/*! core/ui/animations/tweens */ 28);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_core_ui_components_games_baseMainGameComponent__ = __webpack_require__(/*! core/ui/components/games/baseMainGameComponent */ 156);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_core_ui_components_games_gameUI_hintComponent__ = __webpack_require__(/*! core/ui/components/games/gameUI/hintComponent */ 178);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_core_ui_components_games_gameUI_tutorialTextComponent__ = __webpack_require__(/*! core/ui/components/games/gameUI/tutorialTextComponent */ 158);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_core_ui_controls_behaviors_introComplexAnimationBehavior__ = __webpack_require__(/*! core/ui/controls/behaviors/introComplexAnimationBehavior */ 164);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_core_ui_components_games_baseMainGameComponent__ = __webpack_require__(/*! core/ui/components/games/baseMainGameComponent */ 157);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_core_ui_components_games_gameUI_hintComponent__ = __webpack_require__(/*! core/ui/components/games/gameUI/hintComponent */ 179);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_core_ui_components_games_gameUI_tutorialTextComponent__ = __webpack_require__(/*! core/ui/components/games/gameUI/tutorialTextComponent */ 159);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_core_ui_controls_behaviors_introComplexAnimationBehavior__ = __webpack_require__(/*! core/ui/controls/behaviors/introComplexAnimationBehavior */ 165);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_core_ui_controls_index__ = __webpack_require__(/*! core/ui/controls/index */ 4);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_11_core_ui_services_instances__ = __webpack_require__(/*! core/ui/services/instances */ 1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12_games_polyglot_common_components_wordListComponent__ = __webpack_require__(/*! games/polyglot/common/components/wordListComponent */ 179);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13_games_polyglot_common_wordsSounds__ = __webpack_require__(/*! games/polyglot/common/wordsSounds */ 163);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__wordImages__ = __webpack_require__(/*! ../wordImages */ 160);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12_games_polyglot_common_components_wordListComponent__ = __webpack_require__(/*! games/polyglot/common/components/wordListComponent */ 180);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13_games_polyglot_common_wordsSounds__ = __webpack_require__(/*! games/polyglot/common/wordsSounds */ 164);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__wordImages__ = __webpack_require__(/*! ../wordImages */ 161);
 
 
 
@@ -1142,7 +1142,7 @@ var BaseWordMainComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 178:
+/***/ 179:
 /*!**************************************************************!*\
   !*** ./src/core/ui/components/games/gameUI/hintComponent.ts ***!
   \**************************************************************/
@@ -1159,10 +1159,10 @@ var BaseWordMainComponent = /** @class */ (function (_super) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_core_ui_animations_tweens__ = __webpack_require__(/*! core/ui/animations/tweens */ 28);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_core_ui_components_games_gameComponent__ = __webpack_require__(/*! core/ui/components/games/gameComponent */ 33);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_core_ui_components_games_gameUI_textPanelComponent__ = __webpack_require__(/*! core/ui/components/games/gameUI/textPanelComponent */ 161);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_core_ui_components_games_gameUI_textPanelComponent__ = __webpack_require__(/*! core/ui/components/games/gameUI/textPanelComponent */ 162);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_core_ui_controls_btn__ = __webpack_require__(/*! core/ui/controls/btn */ 61);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_core_ui_controls_control__ = __webpack_require__(/*! core/ui/controls/control */ 11);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_core_ui_controls_img__ = __webpack_require__(/*! core/ui/controls/img */ 15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_core_ui_controls_img__ = __webpack_require__(/*! core/ui/controls/img */ 16);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_11_core_ui_services_instances__ = __webpack_require__(/*! core/ui/services/instances */ 1);
 
 
@@ -1249,7 +1249,7 @@ var HintComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 179:
+/***/ 180:
 /*!*******************************************************************!*\
   !*** ./src/games/polyglot/common/components/wordListComponent.ts ***!
   \*******************************************************************/
@@ -1262,11 +1262,11 @@ var HintComponent = /** @class */ (function (_super) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_tslib__ = __webpack_require__(/*! tslib */ 0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_ui_components_index__ = __webpack_require__(/*! core/ui/components/index */ 29);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_controls_behaviors_focusBehavior__ = __webpack_require__(/*! core/ui/controls/behaviors/focusBehavior */ 180);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_controls_behaviors_focusBehavior__ = __webpack_require__(/*! core/ui/controls/behaviors/focusBehavior */ 181);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_core_ui_controls_control__ = __webpack_require__(/*! core/ui/controls/control */ 11);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_utils_undef__ = __webpack_require__(/*! core/utils/undef */ 8);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_games_polyglot_common_components_anagrammaComponent__ = __webpack_require__(/*! games/polyglot/common/components/anagrammaComponent */ 181);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_games_polyglot_common_components_PaperComponent__ = __webpack_require__(/*! games/polyglot/common/components/PaperComponent */ 173);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_games_polyglot_common_components_anagrammaComponent__ = __webpack_require__(/*! games/polyglot/common/components/anagrammaComponent */ 182);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_games_polyglot_common_components_PaperComponent__ = __webpack_require__(/*! games/polyglot/common/components/PaperComponent */ 174);
 
 
 
@@ -1327,7 +1327,7 @@ var WordListComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 180:
+/***/ 181:
 /*!*********************************************************!*\
   !*** ./src/core/ui/controls/behaviors/focusBehavior.ts ***!
   \*********************************************************/
@@ -1419,7 +1419,7 @@ var FocusBehavior = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 181:
+/***/ 182:
 /*!********************************************************************!*\
   !*** ./src/games/polyglot/common/components/anagrammaComponent.ts ***!
   \********************************************************************/
@@ -1435,12 +1435,12 @@ var FocusBehavior = /** @class */ (function (_super) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_core_ui_components_index__ = __webpack_require__(/*! core/ui/components/index */ 29);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_ui_controls_behaviors_answerBtnBehavior__ = __webpack_require__(/*! core/ui/controls/behaviors/answerBtnBehavior */ 69);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_core_ui_controls_behaviors_btnAlphaHoverBehavior__ = __webpack_require__(/*! core/ui/controls/behaviors/btnAlphaHoverBehavior */ 169);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_core_ui_controls_behaviors_btnAlphaHoverBehavior__ = __webpack_require__(/*! core/ui/controls/behaviors/btnAlphaHoverBehavior */ 170);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_core_ui_controls_control__ = __webpack_require__(/*! core/ui/controls/control */ 11);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_core_ui_controls_index__ = __webpack_require__(/*! core/ui/controls/index */ 4);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_core_utils_arrays__ = __webpack_require__(/*! core/utils/arrays */ 26);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_games_polyglot_common_fonts__ = __webpack_require__(/*! games/polyglot/common/fonts */ 166);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11_games_polyglot_common_wordImages__ = __webpack_require__(/*! games/polyglot/common/wordImages */ 160);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_games_polyglot_common_fonts__ = __webpack_require__(/*! games/polyglot/common/fonts */ 167);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11_games_polyglot_common_wordImages__ = __webpack_require__(/*! games/polyglot/common/wordImages */ 161);
 
 
 
@@ -1528,7 +1528,7 @@ var AnagrammaComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 182:
+/***/ 183:
 /*!*************************************************************************!*\
   !*** ./src/games/polyglot/common/components/baseTypewriterComponent.ts ***!
   \*************************************************************************/
@@ -1548,9 +1548,9 @@ var AnagrammaComponent = /** @class */ (function (_super) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_core_ui_controls_txt__ = __webpack_require__(/*! core/ui/controls/txt */ 62);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_core_ui_services_instances__ = __webpack_require__(/*! core/ui/services/instances */ 1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_core_utils_tuples__ = __webpack_require__(/*! core/utils/tuples */ 24);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_games_polyglot_common_fonts__ = __webpack_require__(/*! games/polyglot/common/fonts */ 166);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11_games_polyglot_common_wordsSounds__ = __webpack_require__(/*! games/polyglot/common/wordsSounds */ 163);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__wordImages__ = __webpack_require__(/*! ../wordImages */ 160);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_games_polyglot_common_fonts__ = __webpack_require__(/*! games/polyglot/common/fonts */ 167);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11_games_polyglot_common_wordsSounds__ = __webpack_require__(/*! games/polyglot/common/wordsSounds */ 164);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__wordImages__ = __webpack_require__(/*! ../wordImages */ 161);
 
 
 
@@ -1678,7 +1678,7 @@ var BaseTypeWriterComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 199:
+/***/ 200:
 /*!*************************************************!*\
   !*** ./src/games/polyglot/wordmaster/images.ts ***!
   \*************************************************/
@@ -1689,7 +1689,7 @@ var BaseTypeWriterComponent = /** @class */ (function (_super) {
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Colors; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return Images; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_games_polyglot_common_wordImages__ = __webpack_require__(/*! games/polyglot/common/wordImages */ 160);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_games_polyglot_common_wordImages__ = __webpack_require__(/*! games/polyglot/common/wordImages */ 161);
 
 var Colors;
 (function (Colors) {
@@ -1722,12 +1722,12 @@ var Images;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_tslib__ = __webpack_require__(/*! tslib */ 0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_services__ = __webpack_require__(/*! core/services */ 7);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_components_games_gameUI_textPanelComponent__ = __webpack_require__(/*! core/ui/components/games/gameUI/textPanelComponent */ 161);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_core_ui_components_games_gameUI_tutorialTextComponent__ = __webpack_require__(/*! core/ui/components/games/gameUI/tutorialTextComponent */ 158);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_components_games_gameUI_textPanelComponent__ = __webpack_require__(/*! core/ui/components/games/gameUI/textPanelComponent */ 162);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_core_ui_components_games_gameUI_tutorialTextComponent__ = __webpack_require__(/*! core/ui/components/games/gameUI/tutorialTextComponent */ 159);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_ui_services_instances__ = __webpack_require__(/*! core/ui/services/instances */ 1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_games_polyglot_common_components_baseWordMainComponent__ = __webpack_require__(/*! games/polyglot/common/components/baseWordMainComponent */ 177);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_games_polyglot_common_components_baseWordMainComponent__ = __webpack_require__(/*! games/polyglot/common/components/baseWordMainComponent */ 178);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_games_polyglot_wordmaster_components_typeWriterComponent__ = __webpack_require__(/*! games/polyglot/wordmaster/components/typeWriterComponent */ 297);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_games_polyglot_wordmaster_images__ = __webpack_require__(/*! games/polyglot/wordmaster/images */ 199);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_games_polyglot_wordmaster_images__ = __webpack_require__(/*! games/polyglot/wordmaster/images */ 200);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_games_polyglot_wordmaster_translations__ = __webpack_require__(/*! games/polyglot/wordmaster/translations */ 298);
 
 
@@ -1783,7 +1783,7 @@ var MainComponent = /** @class */ (function (_super) {
         if (this.tutorial) {
             this.bringToTop(this.tutorial);
             var key = task.isHide ? __WEBPACK_IMPORTED_MODULE_9_games_polyglot_wordmaster_translations__["a" /* Translations */].title2 : __WEBPACK_IMPORTED_MODULE_9_games_polyglot_wordmaster_translations__["a" /* Translations */].title1;
-            this.tutorial.setProps(__WEBPACK_IMPORTED_MODULE_1_core_services__["f" /* translationService */].getTranslation(key));
+            this.tutorial.setProps(__WEBPACK_IMPORTED_MODULE_1_core_services__["h" /* translationService */].getTranslation(key));
         }
     };
     return MainComponent;
@@ -1807,8 +1807,8 @@ var MainComponent = /** @class */ (function (_super) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_ui_animations_tweens__ = __webpack_require__(/*! core/ui/animations/tweens */ 28);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_utils_tuples__ = __webpack_require__(/*! core/utils/tuples */ 24);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_games_polyglot_common_components_baseTypewriterComponent__ = __webpack_require__(/*! games/polyglot/common/components/baseTypewriterComponent */ 182);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__images__ = __webpack_require__(/*! ../images */ 199);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_games_polyglot_common_components_baseTypewriterComponent__ = __webpack_require__(/*! games/polyglot/common/components/baseTypewriterComponent */ 183);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__images__ = __webpack_require__(/*! ../images */ 200);
 
 
 
@@ -1918,7 +1918,7 @@ var levels = Object(__WEBPACK_IMPORTED_MODULE_0_core_types_logic__["d" /* create
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Logic; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_tslib__ = __webpack_require__(/*! tslib */ 0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_types_gameLogic__ = __webpack_require__(/*! core/types/gameLogic */ 47);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_utils_circleSeq__ = __webpack_require__(/*! core/utils/circleSeq */ 157);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_utils_circleSeq__ = __webpack_require__(/*! core/utils/circleSeq */ 158);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_utils_index__ = __webpack_require__(/*! core/utils/index */ 9);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_core_utils_strings__ = __webpack_require__(/*! core/utils/strings */ 67);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_utils_tuples__ = __webpack_require__(/*! core/utils/tuples */ 24);
@@ -2014,7 +2014,7 @@ var Logic = /** @class */ (function (_super) {
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AnagrammaWords; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_games_polyglot_wordmaster_wordsEn__ = __webpack_require__(/*! games/polyglot/wordmaster/wordsEn */ 302);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_games_polyglot_wordmaster_wordsRu__ = __webpack_require__(/*! games/polyglot/wordmaster/wordsRu */ 303);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_games_utils_localeUtl__ = __webpack_require__(/*! games/utils/localeUtl */ 174);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_games_utils_localeUtl__ = __webpack_require__(/*! games/utils/localeUtl */ 175);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_lodash__ = __webpack_require__(/*! lodash */ 2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_lodash___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_lodash__);
 

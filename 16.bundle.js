@@ -1,6 +1,6 @@
 webpackJsonpNewGames([16],{
 
-/***/ 140:
+/***/ 141:
 /*!************************************!*\
   !*** ./src/games/observer/meta.ts ***!
   \************************************/
@@ -13,10 +13,10 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "gameId", function() { return gameId; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "metaData", function() { return metaData; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_games_observer_components_mainComponent__ = __webpack_require__(/*! games/observer/components/mainComponent */ 272);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_games_observer_images__ = __webpack_require__(/*! games/observer/images */ 188);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_games_observer_images__ = __webpack_require__(/*! games/observer/images */ 189);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_games_observer_levels__ = __webpack_require__(/*! games/observer/levels */ 277);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_games_observer_logic__ = __webpack_require__(/*! games/observer/logic */ 278);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_games_observer_sounds__ = __webpack_require__(/*! games/observer/sounds */ 198);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_games_observer_sounds__ = __webpack_require__(/*! games/observer/sounds */ 199);
 
 
 
@@ -57,7 +57,7 @@ var metaData = {
 
 /***/ }),
 
-/***/ 156:
+/***/ 157:
 /*!***************************************************************!*\
   !*** ./src/core/ui/components/games/baseMainGameComponent.ts ***!
   \***************************************************************/
@@ -217,7 +217,7 @@ var BaseMainGameComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 157:
+/***/ 158:
 /*!*************************************!*\
   !*** ./src/core/utils/circleSeq.ts ***!
   \*************************************/
@@ -318,7 +318,7 @@ var UniqSeq = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 188:
+/***/ 189:
 /*!**************************************!*\
   !*** ./src/games/observer/images.ts ***!
   \**************************************/
@@ -395,7 +395,7 @@ var Images;
 
 /***/ }),
 
-/***/ 198:
+/***/ 199:
 /*!**************************************!*\
   !*** ./src/games/observer/sounds.ts ***!
   \**************************************/
@@ -432,8 +432,8 @@ var Sounds;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_tslib__ = __webpack_require__(/*! tslib */ 0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_ui_animations_signals__ = __webpack_require__(/*! core/ui/animations/signals */ 22);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_ui_components_answers_answerControlType__ = __webpack_require__(/*! core/ui/components/answers/answerControlType */ 65);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_components_games_baseMainGameComponent__ = __webpack_require__(/*! core/ui/components/games/baseMainGameComponent */ 156);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_games_observer_sounds__ = __webpack_require__(/*! games/observer/sounds */ 198);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_components_games_baseMainGameComponent__ = __webpack_require__(/*! core/ui/components/games/baseMainGameComponent */ 157);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_games_observer_sounds__ = __webpack_require__(/*! games/observer/sounds */ 199);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__houseComponent__ = __webpack_require__(/*! ./houseComponent */ 273);
 
 
@@ -492,11 +492,11 @@ var MainComponent = /** @class */ (function (_super) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_ui_components_games_gameComponent__ = __webpack_require__(/*! core/ui/components/games/gameComponent */ 33);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_core_utils__ = __webpack_require__(/*! core/utils */ 9);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_core_utils_circleSeq__ = __webpack_require__(/*! core/utils/circleSeq */ 157);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_core_utils_circleSeq__ = __webpack_require__(/*! core/utils/circleSeq */ 158);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_games_observer_components_houseCarComponent__ = __webpack_require__(/*! games/observer/components/houseCarComponent */ 274);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_games_observer_components_houseWindowComponent__ = __webpack_require__(/*! games/observer/components/houseWindowComponent */ 275);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_games_observer_images__ = __webpack_require__(/*! games/observer/images */ 188);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11_games_observer_sounds__ = __webpack_require__(/*! games/observer/sounds */ 198);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_games_observer_images__ = __webpack_require__(/*! games/observer/images */ 189);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11_games_observer_sounds__ = __webpack_require__(/*! games/observer/sounds */ 199);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_12_lodash__ = __webpack_require__(/*! lodash */ 2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_12_lodash___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_12_lodash__);
 
@@ -705,8 +705,8 @@ var HouseComponent = /** @class */ (function (_super) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_components_games_gameComponent__ = __webpack_require__(/*! core/ui/components/games/gameComponent */ 33);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_core_utils__ = __webpack_require__(/*! core/utils */ 9);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_utils_circleSeq__ = __webpack_require__(/*! core/utils/circleSeq */ 157);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_games_observer_images__ = __webpack_require__(/*! games/observer/images */ 188);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_utils_circleSeq__ = __webpack_require__(/*! core/utils/circleSeq */ 158);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_games_observer_images__ = __webpack_require__(/*! games/observer/images */ 189);
 
 
 
@@ -777,7 +777,7 @@ var HouseCarComponent = /** @class */ (function (_super) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_ui_components_games_gameComponent__ = __webpack_require__(/*! core/ui/components/games/gameComponent */ 33);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_utils_maps__ = __webpack_require__(/*! core/utils/maps */ 276);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_games_observer_images__ = __webpack_require__(/*! games/observer/images */ 188);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_games_observer_images__ = __webpack_require__(/*! games/observer/images */ 189);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_lodash__ = __webpack_require__(/*! lodash */ 2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_lodash___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5_lodash__);
 
@@ -856,7 +856,7 @@ var Maps;
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return levels; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_core_types__ = __webpack_require__(/*! core/types */ 14);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_core_types__ = __webpack_require__(/*! core/types */ 15);
 
 var max = __WEBPACK_IMPORTED_MODULE_0_core_types__["b" /* NumberIntervalSyntax */].max;
 var minMax = __WEBPACK_IMPORTED_MODULE_0_core_types__["b" /* NumberIntervalSyntax */].minMax;
