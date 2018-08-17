@@ -11,7 +11,7 @@ webpackJsonpNewGames([20],{
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Benchmark", function() { return Benchmark; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_core_ui_phaser_benchmarks_benchmarkControl__ = __webpack_require__(/*! core/ui/phaser/benchmarks/benchmarkControl */ 365);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_core_ui_phaser_benchmarks_benchmarkControl__ = __webpack_require__(/*! core/ui/phaser/benchmarks/benchmarkControl */ 366);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_ui_phaser_benchmarks_benchmarkStorage__ = __webpack_require__(/*! core/ui/phaser/benchmarks/benchmarkStorage */ 72);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_ui_services_instances__ = __webpack_require__(/*! core/ui/services/instances */ 1);
 
@@ -304,7 +304,7 @@ var TextPanelComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 365:
+/***/ 366:
 /*!***********************************************************!*\
   !*** ./src/core/ui/phaser/benchmarks/benchmarkControl.ts ***!
   \***********************************************************/
@@ -315,7 +315,7 @@ var TextPanelComponent = /** @class */ (function (_super) {
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return BenchmarkControl; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_tslib__ = __webpack_require__(/*! tslib */ 0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_assets_coreTranslations__ = __webpack_require__(/*! core/assets/coreTranslations */ 366);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_assets_coreTranslations__ = __webpack_require__(/*! core/assets/coreTranslations */ 367);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_assets_fonts__ = __webpack_require__(/*! core/assets/fonts */ 34);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_services_instances__ = __webpack_require__(/*! core/services/instances */ 14);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_core_ui_animations_tweens__ = __webpack_require__(/*! core/ui/animations/tweens */ 28);
@@ -393,7 +393,7 @@ var BenchmarkControl = /** @class */ (function (_super) {
         var fpsCount = durations.fps / intervalTime;
         var fps = [];
         function updateText(time) {
-            panel.setProps(__WEBPACK_IMPORTED_MODULE_3_core_services_instances__["e" /* translationService */].getTranslation(__WEBPACK_IMPORTED_MODULE_1_core_assets_coreTranslations__["a" /* CoreTranslations */].benchmark_test) + (" [" + time + "]"));
+            panel.setProps(__WEBPACK_IMPORTED_MODULE_3_core_services_instances__["d" /* translationService */].getTranslation(__WEBPACK_IMPORTED_MODULE_1_core_assets_coreTranslations__["a" /* CoreTranslations */].benchmark_test) + (" [" + time + "]"));
         }
         updateText(fpsCount);
         panel.anchorCenter().updatePos(__WEBPACK_IMPORTED_MODULE_5_core_ui_common_sizes__["a" /* Sizes */].w2, this.positions.text.y - __WEBPACK_IMPORTED_MODULE_9_core_ui_services_instances__["e" /* screenSizeService */].topOffset);
@@ -417,7 +417,7 @@ var BenchmarkControl = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 366:
+/***/ 367:
 /*!*********************************************!*\
   !*** ./src/core/assets/coreTranslations.ts ***!
   \*********************************************/

@@ -13,9 +13,9 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "gameId", function() { return gameId; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "metaData", function() { return metaData; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__assets__ = __webpack_require__(/*! ./assets */ 223);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_mainComponent__ = __webpack_require__(/*! ./components/mainComponent */ 361);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__levels__ = __webpack_require__(/*! ./levels */ 363);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__logic__ = __webpack_require__(/*! ./logic */ 364);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_mainComponent__ = __webpack_require__(/*! ./components/mainComponent */ 362);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__levels__ = __webpack_require__(/*! ./levels */ 364);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__logic__ = __webpack_require__(/*! ./logic */ 365);
 
 
 
@@ -238,7 +238,7 @@ var Images;
 
 /***/ }),
 
-/***/ 361:
+/***/ 362:
 /*!********************************************************!*\
   !*** ./src/games/template/components/mainComponent.ts ***!
   \********************************************************/
@@ -253,7 +253,7 @@ var Images;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_ui_components_games_baseMainGameComponent__ = __webpack_require__(/*! core/ui/components/games/baseMainGameComponent */ 157);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_controls_btn__ = __webpack_require__(/*! core/ui/controls/btn */ 61);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__assets__ = __webpack_require__(/*! ../assets */ 223);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__questionComponent__ = __webpack_require__(/*! ./questionComponent */ 362);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__questionComponent__ = __webpack_require__(/*! ./questionComponent */ 363);
 
 
 
@@ -297,7 +297,7 @@ var MainComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 362:
+/***/ 363:
 /*!************************************************************!*\
   !*** ./src/games/template/components/questionComponent.ts ***!
   \************************************************************/
@@ -330,7 +330,7 @@ var QuestionComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 363:
+/***/ 364:
 /*!**************************************!*\
   !*** ./src/games/template/levels.ts ***!
   \**************************************/
@@ -354,7 +354,7 @@ var levels = Object(__WEBPACK_IMPORTED_MODULE_0_core_types_logic__["d" /* create
 
 /***/ }),
 
-/***/ 364:
+/***/ 365:
 /*!*************************************!*\
   !*** ./src/games/template/logic.ts ***!
   \*************************************/

@@ -806,7 +806,7 @@ var MainComponent = /** @class */ (function (_super) {
     };
     MainComponent.prototype.showTutorial = function (index) {
         if (this.isTutorial) {
-            this.tutorial.setProps(__WEBPACK_IMPORTED_MODULE_1_core_services_instances__["e" /* translationService */].getTranslation(__WEBPACK_IMPORTED_MODULE_10_games_compositor_translations__["b" /* Translations */].answers[index]));
+            this.tutorial.setProps(__WEBPACK_IMPORTED_MODULE_1_core_services_instances__["d" /* translationService */].getTranslation(__WEBPACK_IMPORTED_MODULE_10_games_compositor_translations__["b" /* Translations */].answers[index]));
         }
     };
     MainComponent.prototype.introAnimation = function () {
@@ -1292,7 +1292,7 @@ var TaskComponent = /** @class */ (function (_super) {
         this.groupExclude.visible = false;
         var states = {
             text: function () {
-                _this.text.text = __WEBPACK_IMPORTED_MODULE_2_core_services_instances__["e" /* translationService */].getTranslation(__WEBPACK_IMPORTED_MODULE_10_games_compositor_translations__["b" /* Translations */].getTask(_this.props.task.exclude.length > 0));
+                _this.text.text = __WEBPACK_IMPORTED_MODULE_2_core_services_instances__["d" /* translationService */].getTranslation(__WEBPACK_IMPORTED_MODULE_10_games_compositor_translations__["b" /* Translations */].getTask(_this.props.task.exclude.length > 0));
                 _this.text.visible = true;
                 _this.groupExclude.visible = true;
                 var exclude = _this.props.task.exclude.map(function (x) { return _this.makeImage([__WEBPACK_IMPORTED_MODULE_11__images__["a" /* Images */].sound(x), [0, 0]]); });

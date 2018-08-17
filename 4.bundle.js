@@ -1098,7 +1098,7 @@ var wordsDB = {
 var Words;
 (function (Words) {
     function getWords() {
-        var localeWords = wordsDB[__WEBPACK_IMPORTED_MODULE_1_core_services_instances__["d" /* settingService */].settings.locale] || wordsDB[__WEBPACK_IMPORTED_MODULE_0_core_logic_cnst__["a" /* Cnst */].defaultLocale];
+        var localeWords = wordsDB[__WEBPACK_IMPORTED_MODULE_1_core_services_instances__["c" /* settingService */].settings.locale] || wordsDB[__WEBPACK_IMPORTED_MODULE_0_core_logic_cnst__["a" /* Cnst */].defaultLocale];
         return {
             easy: localeWords[1],
             normal: localeWords[1].concat(localeWords[2]),
@@ -1193,7 +1193,7 @@ var MainComponent = /** @class */ (function (_super) {
         }
         if (this.isTutorial) {
             this.tutorial = this.add(this.createComponent(__WEBPACK_IMPORTED_MODULE_5_core_ui_components_games_gameUI_tutorialTextComponent__["a" /* TutorialTextComponent */]).make({ textAlign: "center" }));
-            this.tutorial.setProps(__WEBPACK_IMPORTED_MODULE_1_core_services_instances__["e" /* translationService */].getTranslation(__WEBPACK_IMPORTED_MODULE_8_games_detective_assets__["e" /* Translations */].title));
+            this.tutorial.setProps(__WEBPACK_IMPORTED_MODULE_1_core_services_instances__["d" /* translationService */].getTranslation(__WEBPACK_IMPORTED_MODULE_8_games_detective_assets__["e" /* Translations */].title));
             this.mainGroup.setBiPos(this.biPositions.mainGroup);
         }
         if (__WEBPACK_IMPORTED_MODULE_7_core_ui_services_instances__["e" /* screenSizeService */].isPortrait) {
@@ -1574,7 +1574,7 @@ var MainComponent = /** @class */ (function (_super) {
                 textAlign: "center",
                 panel: { color: this.current(biValues.panelColor), size: this.getPositions().tutorialPanel }
             }));
-            this.tutorial.setProps(__WEBPACK_IMPORTED_MODULE_1_core_services_instances__["e" /* translationService */].getTranslation(__WEBPACK_IMPORTED_MODULE_11_games_detective_assets__["e" /* Translations */].subtitle));
+            this.tutorial.setProps(__WEBPACK_IMPORTED_MODULE_1_core_services_instances__["d" /* translationService */].getTranslation(__WEBPACK_IMPORTED_MODULE_11_games_detective_assets__["e" /* Translations */].subtitle));
             this.mainGroup.setPos(this.getPositions().mainGroup);
         }
     };

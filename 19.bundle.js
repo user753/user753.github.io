@@ -13,9 +13,9 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "gameId", function() { return gameId; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "metaData", function() { return metaData; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__assets__ = __webpack_require__(/*! ./assets */ 188);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_mainComponent__ = __webpack_require__(/*! ./components/mainComponent */ 262);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__levels__ = __webpack_require__(/*! ./levels */ 264);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__logic__ = __webpack_require__(/*! ./logic */ 265);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_mainComponent__ = __webpack_require__(/*! ./components/mainComponent */ 263);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__levels__ = __webpack_require__(/*! ./levels */ 265);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__logic__ = __webpack_require__(/*! ./logic */ 266);
 
 
 
@@ -266,7 +266,7 @@ var Images;
 
 /***/ }),
 
-/***/ 262:
+/***/ 263:
 /*!********************************************************************!*\
   !*** ./src/games/mnemonics/soundstory/components/mainComponent.ts ***!
   \********************************************************************/
@@ -281,7 +281,7 @@ var Images;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_ui_components_games_baseMainGameComponent__ = __webpack_require__(/*! core/ui/components/games/baseMainGameComponent */ 157);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_controls_btn__ = __webpack_require__(/*! core/ui/controls/btn */ 61);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__assets__ = __webpack_require__(/*! ../assets */ 188);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__questionComponent__ = __webpack_require__(/*! ./questionComponent */ 263);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__questionComponent__ = __webpack_require__(/*! ./questionComponent */ 264);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_games_mnemonics_soundstory_assets__ = __webpack_require__(/*! games/mnemonics/soundstory/assets */ 188);
 
 
@@ -320,7 +320,7 @@ var MainComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 263:
+/***/ 264:
 /*!************************************************************************!*\
   !*** ./src/games/mnemonics/soundstory/components/questionComponent.ts ***!
   \************************************************************************/
@@ -387,7 +387,7 @@ var QuestionComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 264:
+/***/ 265:
 /*!**************************************************!*\
   !*** ./src/games/mnemonics/soundstory/levels.ts ***!
   \**************************************************/
@@ -424,7 +424,7 @@ var levels = Object(__WEBPACK_IMPORTED_MODULE_0_core_types_logic__["d" /* create
 
 /***/ }),
 
-/***/ 265:
+/***/ 266:
 /*!*************************************************!*\
   !*** ./src/games/mnemonics/soundstory/logic.ts ***!
   \*************************************************/

@@ -13,9 +13,9 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "gameId", function() { return gameId; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "metaData", function() { return metaData; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__assets__ = __webpack_require__(/*! ./assets */ 187);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_mainComponent__ = __webpack_require__(/*! ./components/mainComponent */ 354);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__levels__ = __webpack_require__(/*! ./levels */ 358);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__logic__ = __webpack_require__(/*! ./logic */ 359);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_mainComponent__ = __webpack_require__(/*! ./components/mainComponent */ 355);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__levels__ = __webpack_require__(/*! ./levels */ 359);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__logic__ = __webpack_require__(/*! ./logic */ 360);
 
 
 
@@ -581,7 +581,7 @@ var Images;
 
 /***/ }),
 
-/***/ 354:
+/***/ 355:
 /*!****************************************************************!*\
   !*** ./src/games/speedread/ticker/components/mainComponent.ts ***!
   \****************************************************************/
@@ -603,9 +603,9 @@ var Images;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_core_utils_circleSeq__ = __webpack_require__(/*! core/utils/circleSeq */ 158);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_core_utils_randomGenerator__ = __webpack_require__(/*! core/utils/randomGenerator */ 64);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_11_core_utils_tuples__ = __webpack_require__(/*! core/utils/tuples */ 24);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12_games_speedread_ticker_components_introComponent__ = __webpack_require__(/*! games/speedread/ticker/components/introComponent */ 355);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13_games_speedread_ticker_components_questionComponent__ = __webpack_require__(/*! games/speedread/ticker/components/questionComponent */ 356);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14_games_speedread_ticker_components_readComponent__ = __webpack_require__(/*! games/speedread/ticker/components/readComponent */ 357);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12_games_speedread_ticker_components_introComponent__ = __webpack_require__(/*! games/speedread/ticker/components/introComponent */ 356);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13_games_speedread_ticker_components_questionComponent__ = __webpack_require__(/*! games/speedread/ticker/components/questionComponent */ 357);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14_games_speedread_ticker_components_readComponent__ = __webpack_require__(/*! games/speedread/ticker/components/readComponent */ 358);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__assets__ = __webpack_require__(/*! ../assets */ 187);
 
 
@@ -782,7 +782,7 @@ var MainComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 355:
+/***/ 356:
 /*!*****************************************************************!*\
   !*** ./src/games/speedread/ticker/components/introComponent.ts ***!
   \*****************************************************************/
@@ -861,7 +861,7 @@ var IntroComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 356:
+/***/ 357:
 /*!********************************************************************!*\
   !*** ./src/games/speedread/ticker/components/questionComponent.ts ***!
   \********************************************************************/
@@ -988,7 +988,7 @@ var QuestionComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 357:
+/***/ 358:
 /*!****************************************************************!*\
   !*** ./src/games/speedread/ticker/components/readComponent.ts ***!
   \****************************************************************/
@@ -1114,7 +1114,7 @@ var ReadComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 358:
+/***/ 359:
 /*!**********************************************!*\
   !*** ./src/games/speedread/ticker/levels.ts ***!
   \**********************************************/
@@ -1137,7 +1137,7 @@ var levels = Object(__WEBPACK_IMPORTED_MODULE_0_core_types_logic__["d" /* create
 
 /***/ }),
 
-/***/ 359:
+/***/ 360:
 /*!*********************************************!*\
   !*** ./src/games/speedread/ticker/logic.ts ***!
   \*********************************************/
@@ -1153,7 +1153,7 @@ var levels = Object(__WEBPACK_IMPORTED_MODULE_0_core_types_logic__["d" /* create
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_utils_circleSeq__ = __webpack_require__(/*! core/utils/circleSeq */ 158);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_core_utils_index__ = __webpack_require__(/*! core/utils/index */ 9);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_utils_strings__ = __webpack_require__(/*! core/utils/strings */ 67);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_games_speedread_ticker_data__ = __webpack_require__(/*! games/speedread/ticker/data */ 360);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_games_speedread_ticker_data__ = __webpack_require__(/*! games/speedread/ticker/data */ 361);
 
 
 
@@ -1214,7 +1214,7 @@ var Logic = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 360:
+/***/ 361:
 /*!********************************************!*\
   !*** ./src/games/speedread/ticker/data.ts ***!
   \********************************************/

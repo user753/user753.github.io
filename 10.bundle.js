@@ -13,9 +13,9 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "gameId", function() { return gameId; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "metaData", function() { return metaData; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__assets__ = __webpack_require__(/*! ./assets */ 166);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_mainComponent__ = __webpack_require__(/*! ./components/mainComponent */ 266);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__levels__ = __webpack_require__(/*! ./levels */ 270);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__logic__ = __webpack_require__(/*! ./logic */ 271);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_mainComponent__ = __webpack_require__(/*! ./components/mainComponent */ 267);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__levels__ = __webpack_require__(/*! ./levels */ 271);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__logic__ = __webpack_require__(/*! ./logic */ 272);
 
 
 
@@ -600,7 +600,7 @@ var wordsDB = {
 var MnemonicsWords;
 (function (MnemonicsWords) {
     function getWords() {
-        var localeWords = wordsDB[__WEBPACK_IMPORTED_MODULE_1_core_services_instances__["d" /* settingService */].settings.locale] || wordsDB[__WEBPACK_IMPORTED_MODULE_0_core_logic_cnst__["a" /* Cnst */].defaultLocale];
+        var localeWords = wordsDB[__WEBPACK_IMPORTED_MODULE_1_core_services_instances__["c" /* settingService */].settings.locale] || wordsDB[__WEBPACK_IMPORTED_MODULE_0_core_logic_cnst__["a" /* Cnst */].defaultLocale];
         return {
             easy: localeWords.object,
             normal: localeWords.object.concat(localeWords.abstract),
@@ -694,7 +694,7 @@ var WordListComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 266:
+/***/ 267:
 /*!*************************************************************************!*\
   !*** ./src/games/mnemonics/wordassociation/components/mainComponent.ts ***!
   \*************************************************************************/
@@ -713,10 +713,10 @@ var WordListComponent = /** @class */ (function (_super) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_core_ui_controls_btn__ = __webpack_require__(/*! core/ui/controls/btn */ 61);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_core_ui_controls_controlUtl__ = __webpack_require__(/*! core/ui/controls/controlUtl */ 63);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_core_ui_controls_GraphicsImg__ = __webpack_require__(/*! core/ui/controls/GraphicsImg */ 155);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_games_mnemonics_wordassociation_components_answerComponent__ = __webpack_require__(/*! games/mnemonics/wordassociation/components/answerComponent */ 267);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_games_mnemonics_wordassociation_components_introComponent__ = __webpack_require__(/*! games/mnemonics/wordassociation/components/introComponent */ 268);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_games_mnemonics_wordassociation_components_answerComponent__ = __webpack_require__(/*! games/mnemonics/wordassociation/components/answerComponent */ 268);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_games_mnemonics_wordassociation_components_introComponent__ = __webpack_require__(/*! games/mnemonics/wordassociation/components/introComponent */ 269);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__assets__ = __webpack_require__(/*! ../assets */ 166);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__questionComponent__ = __webpack_require__(/*! ./questionComponent */ 269);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__questionComponent__ = __webpack_require__(/*! ./questionComponent */ 270);
 
 
 
@@ -818,7 +818,7 @@ var MainComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 267:
+/***/ 268:
 /*!***************************************************************************!*\
   !*** ./src/games/mnemonics/wordassociation/components/answerComponent.ts ***!
   \***************************************************************************/
@@ -947,7 +947,7 @@ var AnswerComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 268:
+/***/ 269:
 /*!**************************************************************************!*\
   !*** ./src/games/mnemonics/wordassociation/components/introComponent.ts ***!
   \**************************************************************************/
@@ -1025,7 +1025,7 @@ var IntroComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 269:
+/***/ 270:
 /*!*****************************************************************************!*\
   !*** ./src/games/mnemonics/wordassociation/components/questionComponent.ts ***!
   \*****************************************************************************/
@@ -1099,7 +1099,7 @@ var QuestionComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 270:
+/***/ 271:
 /*!*******************************************************!*\
   !*** ./src/games/mnemonics/wordassociation/levels.ts ***!
   \*******************************************************/
@@ -1132,7 +1132,7 @@ var levels = Object(__WEBPACK_IMPORTED_MODULE_0_core_types_logic__["d" /* create
 
 /***/ }),
 
-/***/ 271:
+/***/ 272:
 /*!******************************************************!*\
   !*** ./src/games/mnemonics/wordassociation/logic.ts ***!
   \******************************************************/

@@ -16,9 +16,9 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_games_polyglot_common_commonMeta__ = __webpack_require__(/*! games/polyglot/common/commonMeta */ 176);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_games_polyglot_writer_images__ = __webpack_require__(/*! games/polyglot/writer/images */ 218);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_games_polyglot_writer_sounds__ = __webpack_require__(/*! games/polyglot/writer/sounds */ 219);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_mainComponent__ = __webpack_require__(/*! ./components/mainComponent */ 319);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__levels__ = __webpack_require__(/*! ./levels */ 322);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__logic__ = __webpack_require__(/*! ./logic */ 326);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_mainComponent__ = __webpack_require__(/*! ./components/mainComponent */ 320);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__levels__ = __webpack_require__(/*! ./levels */ 323);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__logic__ = __webpack_require__(/*! ./logic */ 327);
 
 
 
@@ -1638,9 +1638,9 @@ var Sounds;
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return WordLength; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return WordMasterWords; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_core_utils_strings__ = __webpack_require__(/*! core/utils/strings */ 67);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_games_polyglot_common_commonWords__ = __webpack_require__(/*! games/polyglot/common/commonWords */ 323);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_games_polyglot_writer_wordsEn__ = __webpack_require__(/*! games/polyglot/writer/wordsEn */ 324);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_games_polyglot_writer_wordsRu__ = __webpack_require__(/*! games/polyglot/writer/wordsRu */ 325);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_games_polyglot_common_commonWords__ = __webpack_require__(/*! games/polyglot/common/commonWords */ 324);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_games_polyglot_writer_wordsEn__ = __webpack_require__(/*! games/polyglot/writer/wordsEn */ 325);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_games_polyglot_writer_wordsRu__ = __webpack_require__(/*! games/polyglot/writer/wordsRu */ 326);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_games_utils_localeUtl__ = __webpack_require__(/*! games/utils/localeUtl */ 175);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_lodash__ = __webpack_require__(/*! lodash */ 2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_lodash___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5_lodash__);
@@ -1716,7 +1716,7 @@ var WordMasterWords;
 
 /***/ }),
 
-/***/ 319:
+/***/ 320:
 /*!***************************************************************!*\
   !*** ./src/games/polyglot/writer/components/mainComponent.ts ***!
   \***************************************************************/
@@ -1734,8 +1734,8 @@ var WordMasterWords;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_ui_services_instances__ = __webpack_require__(/*! core/ui/services/instances */ 1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_core_utils_undef__ = __webpack_require__(/*! core/utils/undef */ 8);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_games_polyglot_common_components_baseWordMainComponent__ = __webpack_require__(/*! games/polyglot/common/components/baseWordMainComponent */ 178);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_games_polyglot_writer_components_typeWriterComponent__ = __webpack_require__(/*! games/polyglot/writer/components/typeWriterComponent */ 320);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_games_polyglot_writer_translations__ = __webpack_require__(/*! games/polyglot/writer/translations */ 321);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_games_polyglot_writer_components_typeWriterComponent__ = __webpack_require__(/*! games/polyglot/writer/components/typeWriterComponent */ 321);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_games_polyglot_writer_translations__ = __webpack_require__(/*! games/polyglot/writer/translations */ 322);
 
 
 
@@ -1772,7 +1772,7 @@ var MainComponent = /** @class */ (function (_super) {
                 _this.tutorial.setProps(_this.tutorialText2());
             },
             function () {
-                _this.tutorial.setProps(__WEBPACK_IMPORTED_MODULE_1_core_services__["h" /* translationService */].getTranslation(__WEBPACK_IMPORTED_MODULE_9_games_polyglot_writer_translations__["a" /* Translations */].title3));
+                _this.tutorial.setProps(__WEBPACK_IMPORTED_MODULE_1_core_services__["g" /* translationService */].getTranslation(__WEBPACK_IMPORTED_MODULE_9_games_polyglot_writer_translations__["a" /* Translations */].title3));
             },
         ];
         __WEBPACK_IMPORTED_MODULE_6_core_utils_undef__["a" /* Undef */].map(states[step], function (fn) { return fn(); });
@@ -1790,7 +1790,7 @@ var MainComponent = /** @class */ (function (_super) {
         this.typewriter = this.mainGroup.add(this.createComponent(__WEBPACK_IMPORTED_MODULE_8_games_polyglot_writer_components_typeWriterComponent__["a" /* TypeWriterComponent */]))
             .setPos(this.getPositions().typewriter);
         this.hintComponent.enableLetterHint = true;
-        this.hintComponent.tooltip = __WEBPACK_IMPORTED_MODULE_1_core_services__["h" /* translationService */].getTranslation(__WEBPACK_IMPORTED_MODULE_9_games_polyglot_writer_translations__["a" /* Translations */].hint);
+        this.hintComponent.tooltip = __WEBPACK_IMPORTED_MODULE_1_core_services__["g" /* translationService */].getTranslation(__WEBPACK_IMPORTED_MODULE_9_games_polyglot_writer_translations__["a" /* Translations */].hint);
         _super.prototype.onInit.call(this);
         if (this.isTutorial) {
             this.onChangeFor(function () { return _this.tutorialStore.state; }, function (state) { return _this.updateTutorialState(state.step); });
@@ -1810,12 +1810,12 @@ var MainComponent = /** @class */ (function (_super) {
             }
             this.bringToTop(this.tutorial);
             var anagrammaText = this.getCurrentTask().anagrammas.map(function (x) { return x.anagramma + " ➜ " + x.word; }).join("\n");
-            var lines = [__WEBPACK_IMPORTED_MODULE_1_core_services__["h" /* translationService */].getTranslation(__WEBPACK_IMPORTED_MODULE_9_games_polyglot_writer_translations__["a" /* Translations */].title1), anagrammaText];
+            var lines = [__WEBPACK_IMPORTED_MODULE_1_core_services__["g" /* translationService */].getTranslation(__WEBPACK_IMPORTED_MODULE_9_games_polyglot_writer_translations__["a" /* Translations */].title1), anagrammaText];
             this.tutorial.setProps(lines.join("\n"));
         }
     };
     MainComponent.prototype.tutorialText2 = function () {
-        return __WEBPACK_IMPORTED_MODULE_1_core_services__["h" /* translationService */].getTranslation(__WEBPACK_IMPORTED_MODULE_9_games_polyglot_writer_translations__["a" /* Translations */].title2) + ": "
+        return __WEBPACK_IMPORTED_MODULE_1_core_services__["g" /* translationService */].getTranslation(__WEBPACK_IMPORTED_MODULE_9_games_polyglot_writer_translations__["a" /* Translations */].title2) + ": "
             + this.getCurrentTask().answerAnagramma.word;
     };
     MainComponent.prototype.onNewTask = function (task) {
@@ -1835,7 +1835,7 @@ var MainComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 320:
+/***/ 321:
 /*!*********************************************************************!*\
   !*** ./src/games/polyglot/writer/components/typeWriterComponent.ts ***!
   \*********************************************************************/
@@ -1909,7 +1909,7 @@ var TypeWriterComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 321:
+/***/ 322:
 /*!***************************************************!*\
   !*** ./src/games/polyglot/writer/translations.ts ***!
   \***************************************************/
@@ -1930,7 +1930,7 @@ var Translations;
 
 /***/ }),
 
-/***/ 322:
+/***/ 323:
 /*!*********************************************!*\
   !*** ./src/games/polyglot/writer/levels.ts ***!
   \*********************************************/
@@ -1958,7 +1958,7 @@ var levels = Object(__WEBPACK_IMPORTED_MODULE_0_core_types_logic__["d" /* create
 
 /***/ }),
 
-/***/ 323:
+/***/ 324:
 /*!**************************************************!*\
   !*** ./src/games/polyglot/common/commonWords.ts ***!
   \**************************************************/
@@ -3436,7 +3436,7 @@ var CommonWords;
 
 /***/ }),
 
-/***/ 324:
+/***/ 325:
 /*!**********************************************!*\
   !*** ./src/games/polyglot/writer/wordsEn.ts ***!
   \**********************************************/
@@ -3515,7 +3515,7 @@ var WordsEn;
 
 /***/ }),
 
-/***/ 325:
+/***/ 326:
 /*!**********************************************!*\
   !*** ./src/games/polyglot/writer/wordsRu.ts ***!
   \**********************************************/
@@ -3594,7 +3594,7 @@ var WordsRu;
 
 /***/ }),
 
-/***/ 326:
+/***/ 327:
 /*!********************************************!*\
   !*** ./src/games/polyglot/writer/logic.ts ***!
   \********************************************/

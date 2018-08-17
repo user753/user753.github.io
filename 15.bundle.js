@@ -13,9 +13,9 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "gameId", function() { return gameId; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "metaData", function() { return metaData; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__assets__ = __webpack_require__(/*! ./assets */ 196);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_mainComponent__ = __webpack_require__(/*! ./components/mainComponent */ 250);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__levels__ = __webpack_require__(/*! ./levels */ 253);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__logic__ = __webpack_require__(/*! ./logic */ 254);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_mainComponent__ = __webpack_require__(/*! ./components/mainComponent */ 251);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__levels__ = __webpack_require__(/*! ./levels */ 254);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__logic__ = __webpack_require__(/*! ./logic */ 255);
 
 
 
@@ -633,7 +633,7 @@ var Images;
 
 /***/ }),
 
-/***/ 250:
+/***/ 251:
 /*!***************************************************************************!*\
   !*** ./src/games/mnemonics/numberassociation/components/mainComponent.ts ***!
   \***************************************************************************/
@@ -649,8 +649,8 @@ var Images;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__core_ui_animations_signals__ = __webpack_require__(/*! ../../../../core/ui/animations/signals */ 22);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__core_ui_controls_controlUtl__ = __webpack_require__(/*! ../../../../core/ui/controls/controlUtl */ 63);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__assets__ = __webpack_require__(/*! ../assets */ 196);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__introComponent__ = __webpack_require__(/*! ./introComponent */ 251);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__questionComponent__ = __webpack_require__(/*! ./questionComponent */ 252);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__introComponent__ = __webpack_require__(/*! ./introComponent */ 252);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__questionComponent__ = __webpack_require__(/*! ./questionComponent */ 253);
 
 
 
@@ -697,7 +697,7 @@ var MainComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 251:
+/***/ 252:
 /*!****************************************************************************!*\
   !*** ./src/games/mnemonics/numberassociation/components/introComponent.ts ***!
   \****************************************************************************/
@@ -779,7 +779,7 @@ var IntroComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 252:
+/***/ 253:
 /*!*******************************************************************************!*\
   !*** ./src/games/mnemonics/numberassociation/components/questionComponent.ts ***!
   \*******************************************************************************/
@@ -1003,7 +1003,7 @@ var QuestionComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 253:
+/***/ 254:
 /*!*********************************************************!*\
   !*** ./src/games/mnemonics/numberassociation/levels.ts ***!
   \*********************************************************/
@@ -1040,7 +1040,7 @@ var levels = Object(__WEBPACK_IMPORTED_MODULE_0_core_types_logic__["d" /* create
 
 /***/ }),
 
-/***/ 254:
+/***/ 255:
 /*!********************************************************!*\
   !*** ./src/games/mnemonics/numberassociation/logic.ts ***!
   \********************************************************/

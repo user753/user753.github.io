@@ -13,9 +13,9 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "gameId", function() { return gameId; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "metaData", function() { return metaData; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__assets__ = __webpack_require__(/*! ./assets */ 171);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_mainComponent__ = __webpack_require__(/*! ./components/mainComponent */ 255);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__levels__ = __webpack_require__(/*! ./levels */ 260);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__logic__ = __webpack_require__(/*! ./logic */ 261);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_mainComponent__ = __webpack_require__(/*! ./components/mainComponent */ 256);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__levels__ = __webpack_require__(/*! ./levels */ 261);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__logic__ = __webpack_require__(/*! ./logic */ 262);
 
 
 
@@ -668,7 +668,7 @@ var wordsDB = {
 var MnemonicsWords;
 (function (MnemonicsWords) {
     function getWords() {
-        var localeWords = wordsDB[__WEBPACK_IMPORTED_MODULE_1_core_services_instances__["d" /* settingService */].settings.locale] || wordsDB[__WEBPACK_IMPORTED_MODULE_0_core_logic_cnst__["a" /* Cnst */].defaultLocale];
+        var localeWords = wordsDB[__WEBPACK_IMPORTED_MODULE_1_core_services_instances__["c" /* settingService */].settings.locale] || wordsDB[__WEBPACK_IMPORTED_MODULE_0_core_logic_cnst__["a" /* Cnst */].defaultLocale];
         return {
             easy: localeWords.object,
             normal: localeWords.object.concat(localeWords.abstract),
@@ -698,7 +698,7 @@ var MnemonicsWords;
 
 /***/ }),
 
-/***/ 255:
+/***/ 256:
 /*!**********************************************************************!*\
   !*** ./src/games/mnemonics/picturewords/components/mainComponent.ts ***!
   \**********************************************************************/
@@ -712,7 +712,7 @@ var MnemonicsWords;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_ui_components_games_baseMainGameComponent__ = __webpack_require__(/*! core/ui/components/games/baseMainGameComponent */ 157);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_games_mnemonics_picturewords_assets__ = __webpack_require__(/*! games/mnemonics/picturewords/assets */ 171);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_games_mnemonics_picturewords_components_questionComponent__ = __webpack_require__(/*! games/mnemonics/picturewords/components/questionComponent */ 256);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_games_mnemonics_picturewords_components_questionComponent__ = __webpack_require__(/*! games/mnemonics/picturewords/components/questionComponent */ 257);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__core_ui_common_positions__ = __webpack_require__(/*! ../../../../core/ui/common/positions */ 66);
 
 
@@ -804,7 +804,7 @@ var MainComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 256:
+/***/ 257:
 /*!**************************************************************************!*\
   !*** ./src/games/mnemonics/picturewords/components/questionComponent.ts ***!
   \**************************************************************************/
@@ -822,8 +822,8 @@ var MainComponent = /** @class */ (function (_super) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_types__ = __webpack_require__(/*! core/types */ 15);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_lodash__ = __webpack_require__(/*! lodash */ 2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_lodash___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_6_lodash__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_games_mnemonics_picturewords_components_itemComponent__ = __webpack_require__(/*! games/mnemonics/picturewords/components/itemComponent */ 257);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_games_mnemonics_picturewords_components_answersComponent__ = __webpack_require__(/*! games/mnemonics/picturewords/components/answersComponent */ 259);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_games_mnemonics_picturewords_components_itemComponent__ = __webpack_require__(/*! games/mnemonics/picturewords/components/itemComponent */ 258);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_games_mnemonics_picturewords_components_answersComponent__ = __webpack_require__(/*! games/mnemonics/picturewords/components/answersComponent */ 260);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__assets__ = __webpack_require__(/*! ../assets */ 171);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__core_assets__ = __webpack_require__(/*! ../../../../core/assets */ 5);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__core_ui_controls_GraphicsImg__ = __webpack_require__(/*! ../../../../core/ui/controls/GraphicsImg */ 155);
@@ -1160,7 +1160,7 @@ var QuestionComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 257:
+/***/ 258:
 /*!**********************************************************************!*\
   !*** ./src/games/mnemonics/picturewords/components/itemComponent.ts ***!
   \**********************************************************************/
@@ -1174,7 +1174,7 @@ var QuestionComponent = /** @class */ (function (_super) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_ui_components_games_gameComponent__ = __webpack_require__(/*! core/ui/components/games/gameComponent */ 33);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_games_mnemonics_picturewords_assets__ = __webpack_require__(/*! games/mnemonics/picturewords/assets */ 171);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__textComponent__ = __webpack_require__(/*! ./textComponent */ 258);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__textComponent__ = __webpack_require__(/*! ./textComponent */ 259);
 
 
 
@@ -1266,7 +1266,7 @@ var ItemComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 258:
+/***/ 259:
 /*!**********************************************************************!*\
   !*** ./src/games/mnemonics/picturewords/components/textComponent.ts ***!
   \**********************************************************************/
@@ -1341,7 +1341,7 @@ var TextComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 259:
+/***/ 260:
 /*!*************************************************************************!*\
   !*** ./src/games/mnemonics/picturewords/components/answersComponent.ts ***!
   \*************************************************************************/
@@ -1444,7 +1444,7 @@ var AnswersComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 260:
+/***/ 261:
 /*!****************************************************!*\
   !*** ./src/games/mnemonics/picturewords/levels.ts ***!
   \****************************************************/
@@ -1478,7 +1478,7 @@ var levels = Object(__WEBPACK_IMPORTED_MODULE_0_core_types_logic__["d" /* create
 
 /***/ }),
 
-/***/ 261:
+/***/ 262:
 /*!***************************************************!*\
   !*** ./src/games/mnemonics/picturewords/logic.ts ***!
   \***************************************************/

@@ -13,9 +13,9 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "gameId", function() { return gameId; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "metaData", function() { return metaData; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__assets__ = __webpack_require__(/*! ./assets */ 202);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_mainComponent__ = __webpack_require__(/*! ./components/mainComponent */ 316);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_mainComponent__ = __webpack_require__(/*! ./components/mainComponent */ 317);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__levels__ = __webpack_require__(/*! ./levels */ 216);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__logic__ = __webpack_require__(/*! ./logic */ 318);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__logic__ = __webpack_require__(/*! ./logic */ 319);
 
 
 
@@ -720,7 +720,7 @@ var Words;
 
 /***/ }),
 
-/***/ 316:
+/***/ 317:
 /*!*****************************************************************!*\
   !*** ./src/games/polyglot/wordsort/components/mainComponent.ts ***!
   \*****************************************************************/
@@ -746,7 +746,7 @@ var Words;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_13_core_utils_numbers__ = __webpack_require__(/*! core/utils/numbers */ 31);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_14_core_utils_objects__ = __webpack_require__(/*! core/utils/objects */ 27);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_15_games_polyglot_wordsort_assets__ = __webpack_require__(/*! games/polyglot/wordsort/assets */ 202);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_16_games_polyglot_wordsort_components_folderComponent__ = __webpack_require__(/*! games/polyglot/wordsort/components/folderComponent */ 317);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_16_games_polyglot_wordsort_components_folderComponent__ = __webpack_require__(/*! games/polyglot/wordsort/components/folderComponent */ 318);
 
 
 
@@ -927,7 +927,7 @@ var MainComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 317:
+/***/ 318:
 /*!*******************************************************************!*\
   !*** ./src/games/polyglot/wordsort/components/folderComponent.ts ***!
   \*******************************************************************/
@@ -994,7 +994,7 @@ var FolderComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 318:
+/***/ 319:
 /*!**********************************************!*\
   !*** ./src/games/polyglot/wordsort/logic.ts ***!
   \**********************************************/

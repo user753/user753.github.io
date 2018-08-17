@@ -13,9 +13,9 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "gameId", function() { return gameId; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "metaData", function() { return metaData; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__assets__ = __webpack_require__(/*! ./assets */ 190);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_mainComponent__ = __webpack_require__(/*! ./components/mainComponent */ 279);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__levels__ = __webpack_require__(/*! ./levels */ 283);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__logic__ = __webpack_require__(/*! ./logic */ 284);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_mainComponent__ = __webpack_require__(/*! ./components/mainComponent */ 280);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__levels__ = __webpack_require__(/*! ./levels */ 284);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__logic__ = __webpack_require__(/*! ./logic */ 285);
 
 
 
@@ -659,7 +659,7 @@ var Images;
 
 /***/ }),
 
-/***/ 279:
+/***/ 280:
 /*!*******************************************************!*\
   !*** ./src/games/penalty/components/mainComponent.ts ***!
   \*******************************************************/
@@ -686,9 +686,9 @@ var Images;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_14_core_utils_numbers__ = __webpack_require__(/*! core/utils/numbers */ 31);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_15_core_utils_randomGenerator__ = __webpack_require__(/*! core/utils/randomGenerator */ 64);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_16_games_penalty_assets__ = __webpack_require__(/*! games/penalty/assets */ 190);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_17_games_penalty_components_ballComponent__ = __webpack_require__(/*! games/penalty/components/ballComponent */ 280);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_18_games_penalty_components_introComponent__ = __webpack_require__(/*! games/penalty/components/introComponent */ 281);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_19_games_penalty_components_targetComponent__ = __webpack_require__(/*! games/penalty/components/targetComponent */ 282);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_17_games_penalty_components_ballComponent__ = __webpack_require__(/*! games/penalty/components/ballComponent */ 281);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_18_games_penalty_components_introComponent__ = __webpack_require__(/*! games/penalty/components/introComponent */ 282);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_19_games_penalty_components_targetComponent__ = __webpack_require__(/*! games/penalty/components/targetComponent */ 283);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_20_lodash__ = __webpack_require__(/*! lodash */ 2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_20_lodash___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_20_lodash__);
 
@@ -947,7 +947,7 @@ var MainComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 280:
+/***/ 281:
 /*!*******************************************************!*\
   !*** ./src/games/penalty/components/ballComponent.ts ***!
   \*******************************************************/
@@ -1030,7 +1030,7 @@ var BallComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 281:
+/***/ 282:
 /*!********************************************************!*\
   !*** ./src/games/penalty/components/introComponent.ts ***!
   \********************************************************/
@@ -1108,7 +1108,7 @@ var IntroComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 282:
+/***/ 283:
 /*!*********************************************************!*\
   !*** ./src/games/penalty/components/targetComponent.ts ***!
   \*********************************************************/
@@ -1171,7 +1171,7 @@ var TargetComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 283:
+/***/ 284:
 /*!*************************************!*\
   !*** ./src/games/penalty/levels.ts ***!
   \*************************************/
@@ -1203,7 +1203,7 @@ var levels = Object(__WEBPACK_IMPORTED_MODULE_0_core_types_logic__["d" /* create
 
 /***/ }),
 
-/***/ 284:
+/***/ 285:
 /*!************************************!*\
   !*** ./src/games/penalty/logic.ts ***!
   \************************************/

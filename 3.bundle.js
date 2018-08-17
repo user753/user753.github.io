@@ -13,9 +13,9 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "gameId", function() { return gameId; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "metaData", function() { return metaData; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__assets__ = __webpack_require__(/*! ./assets */ 201);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_mainComponent__ = __webpack_require__(/*! ./components/mainComponent */ 304);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__levels__ = __webpack_require__(/*! ./levels */ 307);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__logic__ = __webpack_require__(/*! ./logic */ 308);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_mainComponent__ = __webpack_require__(/*! ./components/mainComponent */ 305);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__levels__ = __webpack_require__(/*! ./levels */ 308);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__logic__ = __webpack_require__(/*! ./logic */ 309);
 
 
 
@@ -632,8 +632,8 @@ var IntroComplexAnimationBehavior = /** @class */ (function (_super) {
 /*! all exports used */
 /***/ (function(module, exports, __webpack_require__) {
 
-exports.GridMask = __webpack_require__(/*! ./GridMask */ 312);
-exports.Maze = __webpack_require__(/*! ./Maze */ 313);
+exports.GridMask = __webpack_require__(/*! ./GridMask */ 313);
+exports.Maze = __webpack_require__(/*! ./Maze */ 314);
 exports.directions = __webpack_require__(/*! ./directions */ 215);
 
 
@@ -861,7 +861,7 @@ var Utl;
 /*! exports used: generate */
 /***/ (function(module, exports, __webpack_require__) {
 
-exports.generate = __webpack_require__(/*! ./generate */ 311);
+exports.generate = __webpack_require__(/*! ./generate */ 312);
 exports.GridMask = __webpack_require__(/*! @sbj42/maze-generator-core */ 184).GridMask;
 
 
@@ -971,7 +971,7 @@ module.exports = dirs;
 
 /***/ }),
 
-/***/ 304:
+/***/ 305:
 /*!*******************************************************************!*\
   !*** ./src/games/polyglot/wordsearch/components/mainComponent.ts ***!
   \*******************************************************************/
@@ -992,7 +992,7 @@ module.exports = dirs;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_core_ui_services_instances__ = __webpack_require__(/*! core/ui/services/instances */ 1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_core_utils_randomGenerator__ = __webpack_require__(/*! core/utils/randomGenerator */ 64);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_games_polyglot_wordsearch_assets__ = __webpack_require__(/*! games/polyglot/wordsearch/assets */ 201);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11_games_polyglot_wordsearch_components_fieldComponent__ = __webpack_require__(/*! games/polyglot/wordsearch/components/fieldComponent */ 305);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11_games_polyglot_wordsearch_components_fieldComponent__ = __webpack_require__(/*! games/polyglot/wordsearch/components/fieldComponent */ 306);
 
 
 
@@ -1079,7 +1079,7 @@ var MainComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 305:
+/***/ 306:
 /*!********************************************************************!*\
   !*** ./src/games/polyglot/wordsearch/components/fieldComponent.ts ***!
   \********************************************************************/
@@ -1097,7 +1097,7 @@ var MainComponent = /** @class */ (function (_super) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_ui_animations_tweens__ = __webpack_require__(/*! core/ui/animations/tweens */ 28);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_core_ui_common_sizes__ = __webpack_require__(/*! core/ui/common/sizes */ 3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_core_ui_components_index__ = __webpack_require__(/*! core/ui/components/index */ 29);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_core_ui_controls_behaviors_positionShiftBehavior__ = __webpack_require__(/*! core/ui/controls/behaviors/positionShiftBehavior */ 306);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_core_ui_controls_behaviors_positionShiftBehavior__ = __webpack_require__(/*! core/ui/controls/behaviors/positionShiftBehavior */ 307);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_core_ui_controls_btn__ = __webpack_require__(/*! core/ui/controls/btn */ 61);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_core_ui_controls_controlUtl__ = __webpack_require__(/*! core/ui/controls/controlUtl */ 63);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_11_core_ui_services_instances__ = __webpack_require__(/*! core/ui/services/instances */ 1);
@@ -1345,7 +1345,7 @@ var FieldComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 306:
+/***/ 307:
 /*!*****************************************************************!*\
   !*** ./src/core/ui/controls/behaviors/positionShiftBehavior.ts ***!
   \*****************************************************************/
@@ -1433,7 +1433,7 @@ var PositionShiftBehavior = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 307:
+/***/ 308:
 /*!*************************************************!*\
   !*** ./src/games/polyglot/wordsearch/levels.ts ***!
   \*************************************************/
@@ -1462,7 +1462,7 @@ var levels = Object(__WEBPACK_IMPORTED_MODULE_0_core_types_logic__["d" /* create
 
 /***/ }),
 
-/***/ 308:
+/***/ 309:
 /*!************************************************!*\
   !*** ./src/games/polyglot/wordsearch/logic.ts ***!
   \************************************************/
@@ -1483,8 +1483,8 @@ var levels = Object(__WEBPACK_IMPORTED_MODULE_0_core_types_logic__["d" /* create
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_core_utils_numbers__ = __webpack_require__(/*! core/utils/numbers */ 31);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_core_utils_tuples__ = __webpack_require__(/*! core/utils/tuples */ 24);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_core_utils_undef__ = __webpack_require__(/*! core/utils/undef */ 8);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_games_polyglot_wordsearch_words__ = __webpack_require__(/*! games/polyglot/wordsearch/words */ 309);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11_games_utils_mazeUtl__ = __webpack_require__(/*! games/utils/mazeUtl */ 310);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_games_polyglot_wordsearch_words__ = __webpack_require__(/*! games/polyglot/wordsearch/words */ 310);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11_games_utils_mazeUtl__ = __webpack_require__(/*! games/utils/mazeUtl */ 311);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_12_lodash__ = __webpack_require__(/*! lodash */ 2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_12_lodash___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_12_lodash__);
 
@@ -1670,7 +1670,7 @@ var Logic = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 309:
+/***/ 310:
 /*!************************************************!*\
   !*** ./src/games/polyglot/wordsearch/words.ts ***!
   \************************************************/
@@ -11739,7 +11739,7 @@ var Words;
 
 /***/ }),
 
-/***/ 310:
+/***/ 311:
 /*!************************************!*\
   !*** ./src/games/utils/mazeUtl.ts ***!
   \************************************/
@@ -11751,14 +11751,14 @@ var Words;
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return MazeUtl; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__sbj42_maze_generator__ = __webpack_require__(/*! @sbj42/maze-generator */ 214);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__sbj42_maze_generator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__sbj42_maze_generator__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__sbj42_maze_generator_backtrack__ = __webpack_require__(/*! @sbj42/maze-generator-backtrack */ 314);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__sbj42_maze_generator_backtrack__ = __webpack_require__(/*! @sbj42/maze-generator-backtrack */ 315);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__sbj42_maze_generator_backtrack___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__sbj42_maze_generator_backtrack__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__sbj42_maze_generator_core__ = __webpack_require__(/*! @sbj42/maze-generator-core */ 184);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__sbj42_maze_generator_core___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__sbj42_maze_generator_core__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_utils_numbers__ = __webpack_require__(/*! core/utils/numbers */ 31);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_core_utils_tuples__ = __webpack_require__(/*! core/utils/tuples */ 24);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_utils_utl__ = __webpack_require__(/*! core/utils/utl */ 213);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_games_utils_unicursalGenerator__ = __webpack_require__(/*! games/utils/unicursalGenerator */ 315);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_games_utils_unicursalGenerator__ = __webpack_require__(/*! games/utils/unicursalGenerator */ 316);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_lodash__ = __webpack_require__(/*! lodash */ 2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_lodash___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_7_lodash__);
 
@@ -11814,7 +11814,7 @@ var MazeUtl;
 
 /***/ }),
 
-/***/ 311:
+/***/ 312:
 /*!************************************************************!*\
   !*** ./node_modules/@sbj42/maze-generator/src/generate.js ***!
   \************************************************************/
@@ -11855,7 +11855,7 @@ module.exports = generate;
 
 /***/ }),
 
-/***/ 312:
+/***/ 313:
 /*!*****************************************************************!*\
   !*** ./node_modules/@sbj42/maze-generator-core/src/GridMask.js ***!
   \*****************************************************************/
@@ -12000,7 +12000,7 @@ module.exports = GridMask;
 
 /***/ }),
 
-/***/ 313:
+/***/ 314:
 /*!*************************************************************!*\
   !*** ./node_modules/@sbj42/maze-generator-core/src/Maze.js ***!
   \*************************************************************/
@@ -12193,7 +12193,7 @@ module.exports = Maze;
 
 /***/ }),
 
-/***/ 314:
+/***/ 315:
 /*!***********************************************************************!*\
   !*** ./node_modules/@sbj42/maze-generator-backtrack/src/backtrack.js ***!
   \***********************************************************************/
@@ -12328,7 +12328,7 @@ module.exports = backtrack;
 
 /***/ }),
 
-/***/ 315:
+/***/ 316:
 /*!***********************************************!*\
   !*** ./src/games/utils/unicursalGenerator.ts ***!
   \***********************************************/

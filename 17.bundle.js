@@ -13,7 +13,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "gameId", function() { return gameId; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "metaData", function() { return metaData; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__assets__ = __webpack_require__(/*! ./assets */ 203);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_mainComponent__ = __webpack_require__(/*! ./components/mainComponent */ 344);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_mainComponent__ = __webpack_require__(/*! ./components/mainComponent */ 345);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__levels__ = __webpack_require__(/*! ./levels */ 222);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__logic__ = __webpack_require__(/*! ./logic */ 221);
 
@@ -622,7 +622,7 @@ var tutorialLevels = level(true, { onlyOne: true });
 
 /***/ }),
 
-/***/ 344:
+/***/ 345:
 /*!********************************************************************!*\
   !*** ./src/games/speedread/findletter/components/mainComponent.ts ***!
   \********************************************************************/
@@ -639,8 +639,8 @@ var tutorialLevels = level(true, { onlyOne: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_core_ui_components_games_baseMainGameComponent__ = __webpack_require__(/*! core/ui/components/games/baseMainGameComponent */ 157);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_ui_components_games_gameUI_textPanelComponent__ = __webpack_require__(/*! core/ui/components/games/gameUI/textPanelComponent */ 162);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_games_speedread_findletter_assets__ = __webpack_require__(/*! games/speedread/findletter/assets */ 203);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_games_speedread_findletter_components_introComponent__ = __webpack_require__(/*! games/speedread/findletter/components/introComponent */ 345);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_games_speedread_findletter_components_questionComponent__ = __webpack_require__(/*! games/speedread/findletter/components/questionComponent */ 346);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_games_speedread_findletter_components_introComponent__ = __webpack_require__(/*! games/speedread/findletter/components/introComponent */ 346);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_games_speedread_findletter_components_questionComponent__ = __webpack_require__(/*! games/speedread/findletter/components/questionComponent */ 347);
 
 
 
@@ -723,7 +723,7 @@ var MainComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 345:
+/***/ 346:
 /*!*********************************************************************!*\
   !*** ./src/games/speedread/findletter/components/introComponent.ts ***!
   \*********************************************************************/
@@ -776,7 +776,7 @@ var IntroComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 346:
+/***/ 347:
 /*!************************************************************************!*\
   !*** ./src/games/speedread/findletter/components/questionComponent.ts ***!
   \************************************************************************/

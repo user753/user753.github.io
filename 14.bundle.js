@@ -13,9 +13,9 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "gameId", function() { return gameId; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "metaData", function() { return metaData; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__assets__ = __webpack_require__(/*! ./assets */ 186);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_mainComponent__ = __webpack_require__(/*! ./components/mainComponent */ 347);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__levels__ = __webpack_require__(/*! ./levels */ 351);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__logic__ = __webpack_require__(/*! ./logic */ 352);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_mainComponent__ = __webpack_require__(/*! ./components/mainComponent */ 348);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__levels__ = __webpack_require__(/*! ./levels */ 352);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__logic__ = __webpack_require__(/*! ./logic */ 353);
 
 
 
@@ -475,7 +475,7 @@ var Images;
 
 /***/ }),
 
-/***/ 347:
+/***/ 348:
 /*!********************************************************************!*\
   !*** ./src/games/speedread/speedwords/components/mainComponent.ts ***!
   \********************************************************************/
@@ -492,10 +492,10 @@ var Images;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_core_ui_components_games_gameUI_tutorialTextComponent__ = __webpack_require__(/*! core/ui/components/games/gameUI/tutorialTextComponent */ 159);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_core_ui_controls_controlUtl__ = __webpack_require__(/*! core/ui/controls/controlUtl */ 63);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_core_ui_controls_txt__ = __webpack_require__(/*! core/ui/controls/txt */ 62);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_games_speedread_speedwords_components_answerComponent__ = __webpack_require__(/*! games/speedread/speedwords/components/answerComponent */ 348);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_games_speedread_speedwords_components_introComponent__ = __webpack_require__(/*! games/speedread/speedwords/components/introComponent */ 349);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_games_speedread_speedwords_components_answerComponent__ = __webpack_require__(/*! games/speedread/speedwords/components/answerComponent */ 349);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_games_speedread_speedwords_components_introComponent__ = __webpack_require__(/*! games/speedread/speedwords/components/introComponent */ 350);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__assets__ = __webpack_require__(/*! ../assets */ 186);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__questionComponent__ = __webpack_require__(/*! ./questionComponent */ 350);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__questionComponent__ = __webpack_require__(/*! ./questionComponent */ 351);
 
 
 
@@ -574,7 +574,7 @@ var MainComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 348:
+/***/ 349:
 /*!**********************************************************************!*\
   !*** ./src/games/speedread/speedwords/components/answerComponent.ts ***!
   \**********************************************************************/
@@ -666,7 +666,7 @@ var AnswerComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 349:
+/***/ 350:
 /*!*********************************************************************!*\
   !*** ./src/games/speedread/speedwords/components/introComponent.ts ***!
   \*********************************************************************/
@@ -716,7 +716,7 @@ var IntroComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 350:
+/***/ 351:
 /*!************************************************************************!*\
   !*** ./src/games/speedread/speedwords/components/questionComponent.ts ***!
   \************************************************************************/
@@ -836,7 +836,7 @@ var QuestionComponent = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 351:
+/***/ 352:
 /*!**************************************************!*\
   !*** ./src/games/speedread/speedwords/levels.ts ***!
   \**************************************************/
@@ -859,7 +859,7 @@ var levels = Object(__WEBPACK_IMPORTED_MODULE_0_core_types_logic__["d" /* create
 
 /***/ }),
 
-/***/ 352:
+/***/ 353:
 /*!*************************************************!*\
   !*** ./src/games/speedread/speedwords/logic.ts ***!
   \*************************************************/
@@ -873,7 +873,7 @@ var levels = Object(__WEBPACK_IMPORTED_MODULE_0_core_types_logic__["d" /* create
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_core_logic_index__ = __webpack_require__(/*! core/logic/index */ 25);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_core_logic_sys__ = __webpack_require__(/*! core/logic/sys */ 6);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_core_utils_index__ = __webpack_require__(/*! core/utils/index */ 9);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_games_speedread_speedwords_data__ = __webpack_require__(/*! games/speedread/speedwords/data */ 353);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_games_speedread_speedwords_data__ = __webpack_require__(/*! games/speedread/speedwords/data */ 354);
 
 
 
@@ -919,7 +919,7 @@ var Logic = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 353:
+/***/ 354:
 /*!************************************************!*\
   !*** ./src/games/speedread/speedwords/data.ts ***!
   \************************************************/
